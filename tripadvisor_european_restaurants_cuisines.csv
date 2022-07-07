@@ -1,0 +1,2758 @@
+,country,restaurant_cnt,cuisine,cuisine_cnt
+0,Austria,20487,Austrian,9404.0
+1,Belgium,23711,Austrian,3.0
+2,Bulgaria,4469,Austrian,5.0
+3,Croatia,8375,Austrian,6.0
+4,Czech Republic,14844,Austrian,25.0
+5,Denmark,9485,Austrian,3.0
+6,Finland,7372,Austrian,1.0
+7,France,155288,Austrian,8.0
+8,Germany,115333,Austrian,510.0
+9,Greece,33763,Austrian,4.0
+10,Hungary,7431,Austrian,14.0
+11,Ireland,11203,Austrian,1.0
+12,Italy,224763,Austrian,895.0
+13,Poland,24698,Austrian,12.0
+14,Portugal,32592,Austrian,6.0
+15,Romania,7842,Austrian,24.0
+16,Slovakia,4251,Austrian,9.0
+17,Spain,157479,Austrian,43.0
+18,Sweden,18555,Austrian,11.0
+19,The Netherlands,29792,Austrian,16.0
+20,United Kingdom,171664,Austrian,26.0
+21,Austria,20487,European,10582.0
+22,Belgium,23711,European,11912.0
+23,Bulgaria,4469,European,1589.0
+24,Croatia,8375,European,5348.0
+25,Czech Republic,14844,European,6271.0
+26,Denmark,9485,European,3186.0
+27,Finland,7372,European,2125.0
+28,France,155288,European,31729.0
+29,Germany,115333,European,20365.0
+30,Greece,33763,European,4259.0
+31,Hungary,7431,European,3732.0
+32,Ireland,11203,European,2863.0
+33,Italy,224763,European,12880.0
+34,Poland,24698,European,10094.0
+35,Portugal,32592,European,21440.0
+36,Romania,7842,European,3766.0
+37,Slovakia,4251,European,1368.0
+38,Spain,157479,European,23803.0
+39,Sweden,18555,European,5319.0
+40,The Netherlands,29792,European,15332.0
+41,United Kingdom,171664,European,10473.0
+42,Austria,20487,Wine Bar,821.0
+43,Belgium,23711,Wine Bar,255.0
+44,Bulgaria,4469,Wine Bar,112.0
+45,Croatia,8375,Wine Bar,178.0
+46,Czech Republic,14844,Wine Bar,216.0
+47,Denmark,9485,Wine Bar,104.0
+48,Finland,7372,Wine Bar,114.0
+49,France,155288,Wine Bar,2891.0
+50,Germany,115333,Wine Bar,1325.0
+51,Greece,33763,Wine Bar,1122.0
+52,Hungary,7431,Wine Bar,149.0
+53,Ireland,11203,Wine Bar,152.0
+54,Italy,224763,Wine Bar,5509.0
+55,Poland,24698,Wine Bar,205.0
+56,Portugal,32592,Wine Bar,771.0
+57,Romania,7842,Wine Bar,137.0
+58,Slovakia,4251,Wine Bar,79.0
+59,Spain,157479,Wine Bar,1705.0
+60,Sweden,18555,Wine Bar,128.0
+61,The Netherlands,29792,Wine Bar,233.0
+62,United Kingdom,171664,Wine Bar,1276.0
+63,Austria,20487,Bar,1111.0
+64,Belgium,23711,Bar,1217.0
+65,Bulgaria,4469,Bar,509.0
+66,Croatia,8375,Bar,520.0
+67,Czech Republic,14844,Bar,1177.0
+68,Denmark,9485,Bar,389.0
+69,Finland,7372,Bar,555.0
+70,France,155288,Bar,7745.0
+71,Germany,115333,Bar,3986.0
+72,Greece,33763,Bar,2731.0
+73,Hungary,7431,Bar,484.0
+74,Ireland,11203,Bar,1851.0
+75,Italy,224763,Bar,19287.0
+76,Poland,24698,Bar,1184.0
+77,Portugal,32592,Bar,1933.0
+78,Romania,7842,Bar,688.0
+79,Slovakia,4251,Bar,312.0
+80,Spain,157479,Bar,13181.0
+81,Sweden,18555,Bar,1014.0
+82,The Netherlands,29792,Bar,1863.0
+83,United Kingdom,171664,Bar,28771.0
+84,Austria,20487,Pizza,1503.0
+85,Belgium,23711,Pizza,1076.0
+86,Bulgaria,4469,Pizza,466.0
+87,Croatia,8375,Pizza,1292.0
+88,Czech Republic,14844,Pizza,734.0
+89,Denmark,9485,Pizza,711.0
+90,Finland,7372,Pizza,801.0
+91,France,155288,Pizza,12529.0
+92,Germany,115333,Pizza,8758.0
+93,Greece,33763,Pizza,1538.0
+94,Hungary,7431,Pizza,535.0
+95,Ireland,11203,Pizza,873.0
+96,Italy,224763,Pizza,55432.0
+97,Poland,24698,Pizza,2361.0
+98,Portugal,32592,Pizza,1574.0
+99,Romania,7842,Pizza,1017.0
+100,Slovakia,4251,Pizza,377.0
+101,Spain,157479,Pizza,8779.0
+102,Sweden,18555,Pizza,1752.0
+103,The Netherlands,29792,Pizza,1124.0
+104,United Kingdom,171664,Pizza,10838.0
+105,Austria,20487,Cafe,2205.0
+106,Belgium,23711,Cafe,1161.0
+107,Bulgaria,4469,Cafe,462.0
+108,Croatia,8375,Cafe,667.0
+109,Czech Republic,14844,Cafe,1939.0
+110,Denmark,9485,Cafe,1288.0
+111,Finland,7372,Cafe,1179.0
+112,France,155288,Cafe,5305.0
+113,Germany,115333,Cafe,11643.0
+114,Greece,33763,Cafe,5190.0
+115,Hungary,7431,Cafe,1002.0
+116,Ireland,11203,Cafe,2446.0
+117,Italy,224763,Cafe,15772.0
+118,Poland,24698,Cafe,2255.0
+119,Portugal,32592,Cafe,2707.0
+120,Romania,7842,Cafe,956.0
+121,Slovakia,4251,Cafe,599.0
+122,Spain,157479,Cafe,13366.0
+123,Sweden,18555,Cafe,2038.0
+124,The Netherlands,29792,Cafe,2273.0
+125,United Kingdom,171664,Cafe,34735.0
+126,Austria,20487,Pub,1077.0
+127,Belgium,23711,Pub,1200.0
+128,Bulgaria,4469,Pub,444.0
+129,Croatia,8375,Pub,406.0
+130,Czech Republic,14844,Pub,1250.0
+131,Denmark,9485,Pub,312.0
+132,Finland,7372,Pub,598.0
+133,France,155288,Pub,5983.0
+134,Germany,115333,Pub,4131.0
+135,Greece,33763,Pub,1867.0
+136,Hungary,7431,Pub,417.0
+137,Ireland,11203,Pub,1786.0
+138,Italy,224763,Pub,18144.0
+139,Poland,24698,Pub,1316.0
+140,Portugal,32592,Pub,1543.0
+141,Romania,7842,Pub,626.0
+142,Slovakia,4251,Pub,392.0
+143,Spain,157479,Pub,10347.0
+144,Sweden,18555,Pub,980.0
+145,The Netherlands,29792,Pub,1637.0
+146,United Kingdom,171664,Pub,27657.0
+147,Austria,20487,Gastropub,413.0
+148,Belgium,23711,Gastropub,359.0
+149,Bulgaria,4469,Gastropub,31.0
+150,Croatia,8375,Gastropub,26.0
+151,Czech Republic,14844,Gastropub,330.0
+152,Denmark,9485,Gastropub,37.0
+153,Finland,7372,Gastropub,117.0
+154,France,155288,Gastropub,3173.0
+155,Germany,115333,Gastropub,1449.0
+156,Greece,33763,Gastropub,131.0
+157,Hungary,7431,Gastropub,95.0
+158,Ireland,11203,Gastropub,322.0
+159,Italy,224763,Gastropub,2782.0
+160,Poland,24698,Gastropub,388.0
+161,Portugal,32592,Gastropub,283.0
+162,Romania,7842,Gastropub,92.0
+163,Slovakia,4251,Gastropub,73.0
+164,Spain,157479,Gastropub,1496.0
+165,Sweden,18555,Gastropub,121.0
+166,The Netherlands,29792,Gastropub,197.0
+167,United Kingdom,171664,Gastropub,2849.0
+168,Austria,20487,Diner,656.0
+169,Belgium,23711,Diner,193.0
+170,Bulgaria,4469,Diner,110.0
+171,Croatia,8375,Diner,80.0
+172,Czech Republic,14844,Diner,369.0
+173,Denmark,9485,Diner,210.0
+174,Finland,7372,Diner,168.0
+175,France,155288,Diner,961.0
+176,Germany,115333,Diner,3425.0
+177,Greece,33763,Diner,1018.0
+178,Hungary,7431,Diner,120.0
+179,Ireland,11203,Diner,141.0
+180,Italy,224763,Diner,580.0
+181,Poland,24698,Diner,269.0
+182,Portugal,32592,Diner,265.0
+183,Romania,7842,Diner,71.0
+184,Slovakia,4251,Diner,30.0
+185,Spain,157479,Diner,2334.0
+186,Sweden,18555,Diner,332.0
+187,The Netherlands,29792,Diner,508.0
+188,United Kingdom,171664,Diner,1604.0
+189,Austria,20487,Italian,2000.0
+190,Belgium,23711,Italian,3021.0
+191,Bulgaria,4469,Italian,615.0
+192,Croatia,8375,Italian,1057.0
+193,Czech Republic,14844,Italian,1158.0
+194,Denmark,9485,Italian,843.0
+195,Finland,7372,Italian,416.0
+196,France,155288,Italian,16140.0
+197,Germany,115333,Italian,15251.0
+198,Greece,33763,Italian,2074.0
+199,Hungary,7431,Italian,808.0
+200,Ireland,11203,Italian,699.0
+201,Italy,224763,Italian,160924.0
+202,Poland,24698,Italian,3254.0
+203,Portugal,32592,Italian,1965.0
+204,Romania,7842,Italian,1484.0
+205,Slovakia,4251,Italian,406.0
+206,Spain,157479,Italian,10611.0
+207,Sweden,18555,Italian,1039.0
+208,The Netherlands,29792,Italian,2608.0
+209,United Kingdom,171664,Italian,9450.0
+210,Austria,20487,Fast food,505.0
+211,Belgium,23711,Fast food,995.0
+212,Bulgaria,4469,Fast food,202.0
+213,Croatia,8375,Fast food,441.0
+214,Czech Republic,14844,Fast food,665.0
+215,Denmark,9485,Fast food,490.0
+216,Finland,7372,Fast food,479.0
+217,France,155288,Fast food,9129.0
+218,Germany,115333,Fast food,4312.0
+219,Greece,33763,Fast food,1640.0
+220,Hungary,7431,Fast food,443.0
+221,Ireland,11203,Fast food,985.0
+222,Italy,224763,Fast food,8348.0
+223,Poland,24698,Fast food,926.0
+224,Portugal,32592,Fast food,935.0
+225,Romania,7842,Fast food,397.0
+226,Slovakia,4251,Fast food,188.0
+227,Spain,157479,Fast food,6040.0
+228,Sweden,18555,Fast food,772.0
+229,The Netherlands,29792,Fast food,1129.0
+230,United Kingdom,171664,Fast food,22133.0
+231,Austria,20487,Turkish,212.0
+232,Belgium,23711,Turkish,274.0
+233,Bulgaria,4469,Turkish,76.0
+234,Croatia,8375,Turkish,40.0
+235,Czech Republic,14844,Turkish,78.0
+236,Denmark,9485,Turkish,84.0
+237,Finland,7372,Turkish,141.0
+238,France,155288,Turkish,1808.0
+239,Germany,115333,Turkish,2469.0
+240,Greece,33763,Turkish,101.0
+241,Hungary,7431,Turkish,72.0
+242,Ireland,11203,Turkish,50.0
+243,Italy,224763,Turkish,716.0
+244,Poland,24698,Turkish,312.0
+245,Portugal,32592,Turkish,115.0
+246,Romania,7842,Turkish,144.0
+247,Slovakia,4251,Turkish,21.0
+248,Spain,157479,Turkish,729.0
+249,Sweden,18555,Turkish,144.0
+250,The Netherlands,29792,Turkish,558.0
+251,United Kingdom,171664,Turkish,3174.0
+252,Austria,20487,Mexican,115.0
+253,Belgium,23711,Mexican,134.0
+254,Bulgaria,4469,Mexican,40.0
+255,Croatia,8375,Mexican,54.0
+256,Czech Republic,14844,Mexican,152.0
+257,Denmark,9485,Mexican,121.0
+258,Finland,7372,Mexican,113.0
+259,France,155288,Mexican,726.0
+260,Germany,115333,Mexican,721.0
+261,Greece,33763,Mexican,152.0
+262,Hungary,7431,Mexican,93.0
+263,Ireland,11203,Mexican,107.0
+264,Italy,224763,Mexican,826.0
+265,Poland,24698,Mexican,223.0
+266,Portugal,32592,Mexican,169.0
+267,Romania,7842,Mexican,62.0
+268,Slovakia,4251,Mexican,29.0
+269,Spain,157479,Mexican,1891.0
+270,Sweden,18555,Mexican,201.0
+271,The Netherlands,29792,Mexican,239.0
+272,United Kingdom,171664,Mexican,1196.0
+273,Austria,20487,Seafood,373.0
+274,Belgium,23711,Seafood,1174.0
+275,Bulgaria,4469,Seafood,520.0
+276,Croatia,8375,Seafood,2719.0
+277,Czech Republic,14844,Seafood,145.0
+278,Denmark,9485,Seafood,393.0
+279,Finland,7372,Seafood,79.0
+280,France,155288,Seafood,3378.0
+281,Germany,115333,Seafood,2861.0
+282,Greece,33763,Seafood,5541.0
+283,Hungary,7431,Seafood,77.0
+284,Ireland,11203,Seafood,540.0
+285,Italy,224763,Seafood,42886.0
+286,Poland,24698,Seafood,538.0
+287,Portugal,32592,Seafood,2401.0
+288,Romania,7842,Seafood,326.0
+289,Slovakia,4251,Seafood,47.0
+290,Spain,157479,Seafood,6376.0
+291,Sweden,18555,Seafood,537.0
+292,The Netherlands,29792,Seafood,4759.0
+293,United Kingdom,171664,Seafood,5727.0
+294,Austria,20487,Mediterranean,1171.0
+295,Belgium,23711,Mediterranean,1427.0
+296,Bulgaria,4469,Mediterranean,664.0
+297,Croatia,8375,Mediterranean,3529.0
+298,Czech Republic,14844,Mediterranean,384.0
+299,Denmark,9485,Mediterranean,248.0
+300,Finland,7372,Mediterranean,197.0
+301,France,155288,Mediterranean,10897.0
+302,Germany,115333,Mediterranean,9543.0
+303,Greece,33763,Mediterranean,13886.0
+304,Hungary,7431,Mediterranean,271.0
+305,Ireland,11203,Mediterranean,290.0
+306,Italy,224763,Mediterranean,58650.0
+307,Poland,24698,Mediterranean,1087.0
+308,Portugal,32592,Mediterranean,6867.0
+309,Romania,7842,Mediterranean,709.0
+310,Slovakia,4251,Mediterranean,90.0
+311,Spain,157479,Mediterranean,54333.0
+312,Sweden,18555,Mediterranean,584.0
+313,The Netherlands,29792,Mediterranean,1724.0
+314,United Kingdom,171664,Mediterranean,6469.0
+315,Austria,20487,International,1191.0
+316,Belgium,23711,International,579.0
+317,Bulgaria,4469,International,576.0
+318,Croatia,8375,International,410.0
+319,Czech Republic,14844,International,1033.0
+320,Denmark,9485,International,261.0
+321,Finland,7372,International,323.0
+322,France,155288,International,2098.0
+323,Germany,115333,International,4670.0
+324,Greece,33763,International,1279.0
+325,Hungary,7431,International,777.0
+326,Ireland,11203,International,496.0
+327,Italy,224763,International,3539.0
+328,Poland,24698,International,1182.0
+329,Portugal,32592,International,1335.0
+330,Romania,7842,International,1291.0
+331,Slovakia,4251,International,288.0
+332,Spain,157479,International,6644.0
+333,Sweden,18555,International,661.0
+334,The Netherlands,29792,International,3071.0
+335,United Kingdom,171664,International,3023.0
+336,Austria,20487,Grill,498.0
+337,Belgium,23711,Grill,543.0
+338,Bulgaria,4469,Grill,257.0
+339,Croatia,8375,Grill,694.0
+340,Czech Republic,14844,Grill,220.0
+341,Denmark,9485,Grill,154.0
+342,Finland,7372,Grill,176.0
+343,France,155288,Grill,2669.0
+344,Germany,115333,Grill,2501.0
+345,Greece,33763,Grill,1613.0
+346,Hungary,7431,Grill,175.0
+347,Ireland,11203,Grill,149.0
+348,Italy,224763,Grill,2871.0
+349,Poland,24698,Grill,451.0
+350,Portugal,32592,Grill,1000.0
+351,Romania,7842,Grill,240.0
+352,Slovakia,4251,Grill,76.0
+353,Spain,157479,Grill,2676.0
+354,Sweden,18555,Grill,287.0
+355,The Netherlands,29792,Grill,879.0
+356,United Kingdom,171664,Grill,3890.0
+357,Austria,20487,Deli,266.0
+358,Belgium,23711,Deli,242.0
+359,Bulgaria,4469,Deli,27.0
+360,Croatia,8375,Deli,44.0
+361,Czech Republic,14844,Deli,82.0
+362,Denmark,9485,Deli,88.0
+363,Finland,7372,Deli,85.0
+364,France,155288,Deli,1500.0
+365,Germany,115333,Deli,1671.0
+366,Greece,33763,Deli,240.0
+367,Hungary,7431,Deli,24.0
+368,Ireland,11203,Deli,213.0
+369,Italy,224763,Deli,3799.0
+370,Poland,24698,Deli,59.0
+371,Portugal,32592,Deli,96.0
+372,Romania,7842,Deli,42.0
+373,Slovakia,4251,Deli,36.0
+374,Spain,157479,Deli,1235.0
+375,Sweden,18555,Deli,122.0
+376,The Netherlands,29792,Deli,186.0
+377,United Kingdom,171664,Deli,1564.0
+378,Austria,20487,German,1413.0
+379,Belgium,23711,German,34.0
+380,Bulgaria,4469,German,12.0
+381,Croatia,8375,German,25.0
+382,Czech Republic,14844,German,39.0
+383,Denmark,9485,German,18.0
+384,Finland,7372,German,12.0
+385,France,155288,German,61.0
+386,Germany,115333,German,32567.0
+387,Greece,33763,German,54.0
+388,Hungary,7431,German,28.0
+389,Ireland,11203,German,5.0
+390,Italy,224763,German,920.0
+391,Poland,24698,German,57.0
+392,Portugal,32592,German,26.0
+393,Romania,7842,German,75.0
+394,Slovakia,4251,German,5.0
+395,Spain,157479,German,580.0
+396,Sweden,18555,German,46.0
+397,The Netherlands,29792,German,111.0
+398,United Kingdom,171664,German,148.0
+399,Austria,20487,Soups,258.0
+400,Belgium,23711,Soups,174.0
+401,Bulgaria,4469,Soups,97.0
+402,Croatia,8375,Soups,55.0
+403,Czech Republic,14844,Soups,190.0
+404,Denmark,9485,Soups,22.0
+405,Finland,7372,Soups,160.0
+406,France,155288,Soups,453.0
+407,Germany,115333,Soups,882.0
+408,Greece,33763,Soups,96.0
+409,Hungary,7431,Soups,149.0
+410,Ireland,11203,Soups,234.0
+411,Italy,224763,Soups,1852.0
+412,Poland,24698,Soups,562.0
+413,Portugal,32592,Soups,336.0
+414,Romania,7842,Soups,121.0
+415,Slovakia,4251,Soups,105.0
+416,Spain,157479,Soups,341.0
+417,Sweden,18555,Soups,146.0
+418,The Netherlands,29792,Soups,188.0
+419,United Kingdom,171664,Soups,1510.0
+420,Austria,20487,Central European,2743.0
+421,Belgium,23711,Central European,165.0
+422,Bulgaria,4469,Central European,360.0
+423,Croatia,8375,Central European,501.0
+424,Czech Republic,14844,Central European,1668.0
+425,Denmark,9485,Central European,48.0
+426,Finland,7372,Central European,52.0
+427,France,155288,Central European,168.0
+428,Germany,115333,Central European,8969.0
+429,Greece,33763,Central European,100.0
+430,Hungary,7431,Central European,1109.0
+431,Ireland,11203,Central European,32.0
+432,Italy,224763,Central European,502.0
+433,Poland,24698,Central European,1547.0
+434,Portugal,32592,Central European,68.0
+435,Romania,7842,Central European,501.0
+436,Slovakia,4251,Central European,630.0
+437,Spain,157479,Central European,437.0
+438,Sweden,18555,Central European,65.0
+439,The Netherlands,29792,Central European,423.0
+440,United Kingdom,171664,Central European,261.0
+441,Austria,20487,Indian,161.0
+442,Belgium,23711,Indian,180.0
+443,Bulgaria,4469,Indian,27.0
+444,Croatia,8375,Indian,7.0
+445,Czech Republic,14844,Indian,202.0
+446,Denmark,9485,Indian,158.0
+447,Finland,7372,Indian,113.0
+448,France,155288,Indian,1674.0
+449,Germany,115333,Indian,1519.0
+450,Greece,33763,Indian,109.0
+451,Hungary,7431,Indian,63.0
+452,Ireland,11203,Indian,410.0
+453,Italy,224763,Indian,498.0
+454,Poland,24698,Indian,285.0
+455,Portugal,32592,Indian,474.0
+456,Romania,7842,Indian,29.0
+457,Slovakia,4251,Indian,47.0
+458,Spain,157479,Indian,1350.0
+459,Sweden,18555,Indian,373.0
+460,The Netherlands,29792,Indian,343.0
+461,United Kingdom,171664,Indian,13097.0
+462,Austria,20487,Pakistani,9.0
+463,Belgium,23711,Pakistani,22.0
+464,Bulgaria,4469,Pakistani,3.0
+465,Czech Republic,14844,Pakistani,8.0
+466,Denmark,9485,Pakistani,27.0
+467,Finland,7372,Pakistani,6.0
+468,France,155288,Pakistani,453.0
+469,Germany,115333,Pakistani,87.0
+470,Greece,33763,Pakistani,12.0
+471,Hungary,7431,Pakistani,6.0
+472,Ireland,11203,Pakistani,39.0
+473,Italy,224763,Pakistani,93.0
+474,Poland,24698,Pakistani,10.0
+475,Portugal,32592,Pakistani,22.0
+476,Romania,7842,Pakistani,1.0
+477,Spain,157479,Pakistani,156.0
+478,Sweden,18555,Pakistani,31.0
+479,The Netherlands,29792,Pakistani,17.0
+480,United Kingdom,171664,Pakistani,895.0
+481,Austria,20487,Afghani,15.0
+482,Belgium,23711,Afghani,10.0
+483,Bulgaria,4469,Afghani,1.0
+484,Croatia,8375,Afghani,2.0
+485,Czech Republic,14844,Afghani,2.0
+486,Denmark,9485,Afghani,4.0
+487,Finland,7372,Afghani,5.0
+488,France,155288,Afghani,79.0
+489,Germany,115333,Afghani,81.0
+490,Greece,33763,Afghani,4.0
+491,Hungary,7431,Afghani,4.0
+492,Ireland,11203,Afghani,11.0
+493,Italy,224763,Afghani,67.0
+494,Poland,24698,Afghani,9.0
+495,Portugal,32592,Afghani,14.0
+496,Romania,7842,Afghani,2.0
+497,Slovakia,4251,Afghani,3.0
+498,Spain,157479,Afghani,73.0
+499,Sweden,18555,Afghani,15.0
+500,The Netherlands,29792,Afghani,30.0
+501,United Kingdom,171664,Afghani,157.0
+502,Austria,20487,Middle Eastern,200.0
+503,Belgium,23711,Middle Eastern,342.0
+504,Bulgaria,4469,Middle Eastern,40.0
+505,Croatia,8375,Middle Eastern,16.0
+506,Czech Republic,14844,Middle Eastern,51.0
+507,Denmark,9485,Middle Eastern,133.0
+508,Finland,7372,Middle Eastern,113.0
+509,France,155288,Middle Eastern,2903.0
+510,Germany,115333,Middle Eastern,1594.0
+511,Greece,33763,Middle Eastern,144.0
+512,Hungary,7431,Middle Eastern,79.0
+513,Ireland,11203,Middle Eastern,107.0
+514,Italy,224763,Middle Eastern,984.0
+515,Poland,24698,Middle Eastern,154.0
+516,Portugal,32592,Middle Eastern,94.0
+517,Romania,7842,Middle Eastern,104.0
+518,Slovakia,4251,Middle Eastern,12.0
+519,Spain,157479,Middle Eastern,729.0
+520,Sweden,18555,Middle Eastern,304.0
+521,The Netherlands,29792,Middle Eastern,335.0
+522,United Kingdom,171664,Middle Eastern,3150.0
+523,Austria,20487,Japanese,285.0
+524,Belgium,23711,Japanese,481.0
+525,Bulgaria,4469,Japanese,45.0
+526,Croatia,8375,Japanese,47.0
+527,Czech Republic,14844,Japanese,173.0
+528,Denmark,9485,Japanese,359.0
+529,Finland,7372,Japanese,168.0
+530,France,155288,Japanese,4831.0
+531,Germany,115333,Japanese,1595.0
+532,Greece,33763,Japanese,186.0
+533,Hungary,7431,Japanese,83.0
+534,Ireland,11203,Japanese,123.0
+535,Italy,224763,Japanese,4479.0
+536,Poland,24698,Japanese,631.0
+537,Portugal,32592,Japanese,771.0
+538,Romania,7842,Japanese,81.0
+539,Slovakia,4251,Japanese,72.0
+540,Spain,157479,Japanese,3032.0
+541,Sweden,18555,Japanese,560.0
+542,The Netherlands,29792,Japanese,846.0
+543,United Kingdom,171664,Japanese,1797.0
+544,Austria,20487,Sushi,383.0
+545,Belgium,23711,Sushi,360.0
+546,Bulgaria,4469,Sushi,85.0
+547,Croatia,8375,Sushi,43.0
+548,Czech Republic,14844,Sushi,163.0
+549,Denmark,9485,Sushi,348.0
+550,Finland,7372,Sushi,178.0
+551,France,155288,Sushi,2496.0
+552,Germany,115333,Sushi,2319.0
+553,Greece,33763,Sushi,206.0
+554,Hungary,7431,Sushi,52.0
+555,Ireland,11203,Sushi,97.0
+556,Italy,224763,Sushi,4446.0
+557,Poland,24698,Sushi,545.0
+558,Portugal,32592,Sushi,788.0
+559,Romania,7842,Sushi,72.0
+560,Slovakia,4251,Sushi,59.0
+561,Spain,157479,Sushi,2524.0
+562,Sweden,18555,Sushi,597.0
+563,The Netherlands,29792,Sushi,871.0
+564,United Kingdom,171664,Sushi,1145.0
+565,Austria,20487,Asian,884.0
+566,Belgium,23711,Asian,1533.0
+567,Bulgaria,4469,Asian,93.0
+568,Croatia,8375,Asian,103.0
+569,Czech Republic,14844,Asian,578.0
+570,Denmark,9485,Asian,489.0
+571,Finland,7372,Asian,536.0
+572,France,155288,Asian,9560.0
+573,Germany,115333,Asian,5679.0
+574,Greece,33763,Asian,395.0
+575,Hungary,7431,Asian,230.0
+576,Ireland,11203,Asian,862.0
+577,Italy,224763,Asian,5190.0
+578,Poland,24698,Asian,923.0
+579,Portugal,32592,Asian,1019.0
+580,Romania,7842,Asian,183.0
+581,Slovakia,4251,Asian,124.0
+582,Spain,157479,Asian,5222.0
+583,Sweden,18555,Asian,1080.0
+584,The Netherlands,29792,Asian,2560.0
+585,United Kingdom,171664,Asian,16415.0
+586,Austria,20487,Contemporary,329.0
+587,Belgium,23711,Contemporary,416.0
+588,Bulgaria,4469,Contemporary,71.0
+589,Croatia,8375,Contemporary,57.0
+590,Czech Republic,14844,Contemporary,195.0
+591,Denmark,9485,Contemporary,169.0
+592,Finland,7372,Contemporary,108.0
+593,France,155288,Contemporary,1766.0
+594,Germany,115333,Contemporary,1079.0
+595,Greece,33763,Contemporary,324.0
+596,Hungary,7431,Contemporary,62.0
+597,Ireland,11203,Contemporary,301.0
+598,Italy,224763,Contemporary,2217.0
+599,Poland,24698,Contemporary,424.0
+600,Portugal,32592,Contemporary,1030.0
+601,Romania,7842,Contemporary,70.0
+602,Slovakia,4251,Contemporary,105.0
+603,Spain,157479,Contemporary,2665.0
+604,Sweden,18555,Contemporary,229.0
+605,The Netherlands,29792,Contemporary,642.0
+606,United Kingdom,171664,Contemporary,2406.0
+607,Austria,20487,Neapolitan,30.0
+608,Belgium,23711,Neapolitan,25.0
+609,Bulgaria,4469,Neapolitan,3.0
+610,Croatia,8375,Neapolitan,12.0
+611,Czech Republic,14844,Neapolitan,22.0
+612,Denmark,9485,Neapolitan,12.0
+613,Finland,7372,Neapolitan,12.0
+614,France,155288,Neapolitan,249.0
+615,Germany,115333,Neapolitan,108.0
+616,Greece,33763,Neapolitan,69.0
+617,Hungary,7431,Neapolitan,16.0
+618,Ireland,11203,Neapolitan,19.0
+619,Italy,224763,Neapolitan,4950.0
+620,Poland,24698,Neapolitan,84.0
+621,Portugal,32592,Neapolitan,31.0
+622,Romania,7842,Neapolitan,22.0
+623,Slovakia,4251,Neapolitan,4.0
+624,Spain,157479,Neapolitan,382.0
+625,Sweden,18555,Neapolitan,33.0
+626,The Netherlands,29792,Neapolitan,36.0
+627,United Kingdom,171664,Neapolitan,278.0
+628,Austria,20487,Campania,28.0
+629,Belgium,23711,Campania,25.0
+630,Bulgaria,4469,Campania,4.0
+631,Croatia,8375,Campania,11.0
+632,Czech Republic,14844,Campania,22.0
+633,Denmark,9485,Campania,12.0
+634,Finland,7372,Campania,10.0
+635,France,155288,Campania,251.0
+636,Germany,115333,Campania,112.0
+637,Greece,33763,Campania,68.0
+638,Hungary,7431,Campania,16.0
+639,Ireland,11203,Campania,18.0
+640,Italy,224763,Campania,5200.0
+641,Poland,24698,Campania,77.0
+642,Portugal,32592,Campania,30.0
+643,Romania,7842,Campania,21.0
+644,Slovakia,4251,Campania,4.0
+645,Spain,157479,Campania,372.0
+646,Sweden,18555,Campania,33.0
+647,The Netherlands,29792,Campania,36.0
+648,United Kingdom,171664,Campania,267.0
+649,Austria,20487,Tuscan,10.0
+650,Belgium,23711,Tuscan,10.0
+651,Bulgaria,4469,Tuscan,1.0
+652,Czech Republic,14844,Tuscan,8.0
+653,Denmark,9485,Tuscan,10.0
+654,Finland,7372,Tuscan,1.0
+655,France,155288,Tuscan,82.0
+656,Germany,115333,Tuscan,40.0
+657,Greece,33763,Tuscan,6.0
+658,Hungary,7431,Tuscan,11.0
+659,Ireland,11203,Tuscan,9.0
+660,Italy,224763,Tuscan,5232.0
+661,Poland,24698,Tuscan,22.0
+662,Portugal,32592,Tuscan,13.0
+663,Romania,7842,Tuscan,9.0
+664,Slovakia,4251,Tuscan,5.0
+665,Spain,157479,Tuscan,117.0
+666,Sweden,18555,Tuscan,6.0
+667,The Netherlands,29792,Tuscan,14.0
+668,United Kingdom,171664,Tuscan,60.0
+669,Austria,20487,Central-Italian,20.0
+670,Belgium,23711,Central-Italian,36.0
+671,Bulgaria,4469,Central-Italian,15.0
+672,Croatia,8375,Central-Italian,11.0
+673,Czech Republic,14844,Central-Italian,22.0
+674,Denmark,9485,Central-Italian,19.0
+675,Finland,7372,Central-Italian,7.0
+676,France,155288,Central-Italian,316.0
+677,Germany,115333,Central-Italian,183.0
+678,Greece,33763,Central-Italian,23.0
+679,Hungary,7431,Central-Italian,25.0
+680,Ireland,11203,Central-Italian,21.0
+681,Italy,224763,Central-Italian,10108.0
+682,Poland,24698,Central-Italian,66.0
+683,Portugal,32592,Central-Italian,36.0
+684,Romania,7842,Central-Italian,92.0
+685,Slovakia,4251,Central-Italian,7.0
+686,Spain,157479,Central-Italian,308.0
+687,Sweden,18555,Central-Italian,10.0
+688,The Netherlands,29792,Central-Italian,60.0
+689,United Kingdom,171664,Central-Italian,197.0
+690,Austria,20487,Southern-Italian,63.0
+691,Belgium,23711,Southern-Italian,110.0
+692,Bulgaria,4469,Southern-Italian,11.0
+693,Croatia,8375,Southern-Italian,17.0
+694,Czech Republic,14844,Southern-Italian,31.0
+695,Denmark,9485,Southern-Italian,33.0
+696,Finland,7372,Southern-Italian,15.0
+697,France,155288,Southern-Italian,572.0
+698,Germany,115333,Southern-Italian,383.0
+699,Greece,33763,Southern-Italian,86.0
+700,Hungary,7431,Southern-Italian,36.0
+701,Ireland,11203,Southern-Italian,38.0
+702,Italy,224763,Southern-Italian,15075.0
+703,Poland,24698,Southern-Italian,139.0
+704,Portugal,32592,Southern-Italian,55.0
+705,Romania,7842,Southern-Italian,37.0
+706,Slovakia,4251,Southern-Italian,12.0
+707,Spain,157479,Southern-Italian,648.0
+708,Sweden,18555,Southern-Italian,40.0
+709,The Netherlands,29792,Southern-Italian,92.0
+710,United Kingdom,171664,Southern-Italian,698.0
+711,Austria,20487,Barbecue,233.0
+712,Belgium,23711,Barbecue,299.0
+713,Bulgaria,4469,Barbecue,511.0
+714,Croatia,8375,Barbecue,937.0
+715,Czech Republic,14844,Barbecue,290.0
+716,Denmark,9485,Barbecue,204.0
+717,Finland,7372,Barbecue,202.0
+718,France,155288,Barbecue,1974.0
+719,Germany,115333,Barbecue,1140.0
+720,Greece,33763,Barbecue,1479.0
+721,Hungary,7431,Barbecue,93.0
+722,Ireland,11203,Barbecue,58.0
+723,Italy,224763,Barbecue,11682.0
+724,Poland,24698,Barbecue,192.0
+725,Portugal,32592,Barbecue,1096.0
+726,Romania,7842,Barbecue,190.0
+727,Slovakia,4251,Barbecue,131.0
+728,Spain,157479,Barbecue,4124.0
+729,Sweden,18555,Barbecue,451.0
+730,The Netherlands,29792,Barbecue,476.0
+731,United Kingdom,171664,Barbecue,1235.0
+732,Austria,20487,Street Food,114.0
+733,Belgium,23711,Street Food,223.0
+734,Bulgaria,4469,Street Food,64.0
+735,Croatia,8375,Street Food,148.0
+736,Czech Republic,14844,Street Food,115.0
+737,Denmark,9485,Street Food,58.0
+738,Finland,7372,Street Food,127.0
+739,France,155288,Street Food,2088.0
+740,Germany,115333,Street Food,850.0
+741,Greece,33763,Street Food,542.0
+742,Hungary,7431,Street Food,266.0
+743,Ireland,11203,Street Food,91.0
+744,Italy,224763,Street Food,2293.0
+745,Poland,24698,Street Food,103.0
+746,Portugal,32592,Street Food,167.0
+747,Romania,7842,Street Food,98.0
+748,Slovakia,4251,Street Food,59.0
+749,Spain,157479,Street Food,1271.0
+750,Sweden,18555,Street Food,212.0
+751,The Netherlands,29792,Street Food,338.0
+752,United Kingdom,171664,Street Food,1516.0
+753,Austria,20487,Healthy,334.0
+754,Belgium,23711,Healthy,567.0
+755,Bulgaria,4469,Healthy,163.0
+756,Croatia,8375,Healthy,174.0
+757,Czech Republic,14844,Healthy,312.0
+758,Denmark,9485,Healthy,189.0
+759,Finland,7372,Healthy,152.0
+760,France,155288,Healthy,4283.0
+761,Germany,115333,Healthy,1951.0
+762,Greece,33763,Healthy,1203.0
+763,Hungary,7431,Healthy,270.0
+764,Ireland,11203,Healthy,434.0
+765,Italy,224763,Healthy,3057.0
+766,Poland,24698,Healthy,910.0
+767,Portugal,32592,Healthy,1389.0
+768,Romania,7842,Healthy,205.0
+769,Slovakia,4251,Healthy,144.0
+770,Spain,157479,Healthy,5634.0
+771,Sweden,18555,Healthy,259.0
+772,The Netherlands,29792,Healthy,806.0
+773,United Kingdom,171664,Healthy,3732.0
+774,Austria,20487,Slovenian,10.0
+775,Bulgaria,4469,Slovenian,1.0
+776,Croatia,8375,Slovenian,15.0
+777,Czech Republic,14844,Slovenian,4.0
+778,France,155288,Slovenian,2.0
+779,Germany,115333,Slovenian,5.0
+780,Greece,33763,Slovenian,2.0
+781,Hungary,7431,Slovenian,1.0
+782,Italy,224763,Slovenian,73.0
+783,Poland,24698,Slovenian,3.0
+784,Portugal,32592,Slovenian,1.0
+785,Romania,7842,Slovenian,1.0
+786,Slovakia,4251,Slovenian,25.0
+787,Spain,157479,Slovenian,25.0
+788,Sweden,18555,Slovenian,4.0
+789,The Netherlands,29792,Slovenian,3.0
+790,United Kingdom,171664,Slovenian,2.0
+791,Austria,20487,Romana,5.0
+792,Belgium,23711,Romana,12.0
+793,Bulgaria,4469,Romana,2.0
+794,Czech Republic,14844,Romana,7.0
+795,Denmark,9485,Romana,3.0
+796,Finland,7372,Romana,6.0
+797,France,155288,Romana,154.0
+798,Germany,115333,Romana,17.0
+799,Greece,33763,Romana,4.0
+800,Hungary,7431,Romana,10.0
+801,Ireland,11203,Romana,6.0
+802,Italy,224763,Romana,3094.0
+803,Poland,24698,Romana,27.0
+804,Portugal,32592,Romana,16.0
+805,Romania,7842,Romana,59.0
+806,Slovakia,4251,Romana,2.0
+807,Spain,157479,Romana,163.0
+808,Sweden,18555,Romana,1.0
+809,The Netherlands,29792,Romana,14.0
+810,United Kingdom,171664,Romana,51.0
+811,Austria,20487,Lazio,6.0
+812,Belgium,23711,Lazio,11.0
+813,Bulgaria,4469,Lazio,2.0
+814,Czech Republic,14844,Lazio,7.0
+815,Denmark,9485,Lazio,4.0
+816,Finland,7372,Lazio,5.0
+817,France,155288,Lazio,152.0
+818,Germany,115333,Lazio,20.0
+819,Greece,33763,Lazio,7.0
+820,Hungary,7431,Lazio,10.0
+821,Ireland,11203,Lazio,7.0
+822,Italy,224763,Lazio,3209.0
+823,Poland,24698,Lazio,28.0
+824,Portugal,32592,Lazio,17.0
+825,Romania,7842,Lazio,55.0
+826,Slovakia,4251,Lazio,2.0
+827,Spain,157479,Lazio,163.0
+828,Sweden,18555,Lazio,1.0
+829,The Netherlands,29792,Lazio,15.0
+830,United Kingdom,171664,Lazio,50.0
+831,Austria,20487,Steakhouse,233.0
+832,Belgium,23711,Steakhouse,285.0
+833,Bulgaria,4469,Steakhouse,133.0
+834,Croatia,8375,Steakhouse,140.0
+835,Czech Republic,14844,Steakhouse,261.0
+836,Denmark,9485,Steakhouse,184.0
+837,Finland,7372,Steakhouse,147.0
+838,France,155288,Steakhouse,1163.0
+839,Germany,115333,Steakhouse,1696.0
+840,Greece,33763,Steakhouse,1787.0
+841,Hungary,7431,Steakhouse,76.0
+842,Ireland,11203,Steakhouse,171.0
+843,Italy,224763,Steakhouse,3478.0
+844,Poland,24698,Steakhouse,237.0
+845,Portugal,32592,Steakhouse,525.0
+846,Romania,7842,Steakhouse,120.0
+847,Slovakia,4251,Steakhouse,102.0
+848,Spain,157479,Steakhouse,5451.0
+849,Sweden,18555,Steakhouse,205.0
+850,The Netherlands,29792,Steakhouse,480.0
+851,United Kingdom,171664,Steakhouse,1637.0
+852,Austria,20487,Chinese,542.0
+853,Belgium,23711,Chinese,886.0
+854,Bulgaria,4469,Chinese,44.0
+855,Croatia,8375,Chinese,53.0
+856,Czech Republic,14844,Chinese,188.0
+857,Denmark,9485,Chinese,228.0
+858,Finland,7372,Chinese,225.0
+859,France,155288,Chinese,4201.0
+860,Germany,115333,Chinese,2776.0
+861,Greece,33763,Chinese,208.0
+862,Hungary,7431,Chinese,85.0
+863,Ireland,11203,Chinese,602.0
+864,Italy,224763,Chinese,4272.0
+865,Poland,24698,Chinese,277.0
+866,Portugal,32592,Chinese,373.0
+867,Romania,7842,Chinese,100.0
+868,Slovakia,4251,Chinese,33.0
+869,Spain,157479,Chinese,2707.0
+870,Sweden,18555,Chinese,403.0
+871,The Netherlands,29792,Chinese,1300.0
+872,United Kingdom,171664,Chinese,9543.0
+873,Austria,20487,Thai,184.0
+874,Belgium,23711,Thai,464.0
+875,Bulgaria,4469,Thai,8.0
+876,Croatia,8375,Thai,21.0
+877,Czech Republic,14844,Thai,158.0
+878,Denmark,9485,Thai,204.0
+879,Finland,7372,Thai,155.0
+880,France,155288,Thai,2422.0
+881,Germany,115333,Thai,1640.0
+882,Greece,33763,Thai,76.0
+883,Hungary,7431,Thai,76.0
+884,Ireland,11203,Thai,298.0
+885,Italy,224763,Thai,336.0
+886,Poland,24698,Thai,328.0
+887,Portugal,32592,Thai,88.0
+888,Romania,7842,Thai,15.0
+889,Slovakia,4251,Thai,50.0
+890,Spain,157479,Thai,744.0
+891,Sweden,18555,Thai,677.0
+892,The Netherlands,29792,Thai,382.0
+893,United Kingdom,171664,Thai,2678.0
+894,Austria,20487,Greek,202.0
+895,Belgium,23711,Greek,414.0
+896,Bulgaria,4469,Greek,129.0
+897,Croatia,8375,Greek,14.0
+898,Czech Republic,14844,Greek,65.0
+899,Denmark,9485,Greek,43.0
+900,Finland,7372,Greek,39.0
+901,France,155288,Greek,412.0
+902,Germany,115333,Greek,4657.0
+903,Greece,33763,Greek,22191.0
+904,Hungary,7431,Greek,70.0
+905,Ireland,11203,Greek,12.0
+906,Italy,224763,Greek,340.0
+907,Poland,24698,Greek,121.0
+908,Portugal,32592,Greek,41.0
+909,Romania,7842,Greek,141.0
+910,Slovakia,4251,Greek,16.0
+911,Spain,157479,Greek,217.0
+912,Sweden,18555,Greek,180.0
+913,The Netherlands,29792,Greek,484.0
+914,United Kingdom,171664,Greek,986.0
+915,Austria,20487,Spanish,94.0
+916,Belgium,23711,Spanish,312.0
+917,Bulgaria,4469,Spanish,45.0
+918,Croatia,8375,Spanish,10.0
+919,Czech Republic,14844,Spanish,58.0
+920,Denmark,9485,Spanish,108.0
+921,Finland,7372,Spanish,62.0
+922,France,155288,Spanish,1844.0
+923,Germany,115333,Spanish,1312.0
+924,Greece,33763,Spanish,71.0
+925,Hungary,7431,Spanish,47.0
+926,Ireland,11203,Spanish,69.0
+927,Italy,224763,Spanish,563.0
+928,Poland,24698,Spanish,149.0
+929,Portugal,32592,Spanish,421.0
+930,Romania,7842,Spanish,64.0
+931,Slovakia,4251,Spanish,19.0
+932,Spain,157479,Spanish,85973.0
+933,Sweden,18555,Spanish,198.0
+934,The Netherlands,29792,Spanish,530.0
+935,United Kingdom,171664,Spanish,1242.0
+936,Austria,20487,Croatian,84.0
+937,Belgium,23711,Croatian,13.0
+938,Bulgaria,4469,Croatian,2.0
+939,Croatia,8375,Croatian,5287.0
+940,Czech Republic,14844,Croatian,15.0
+941,Denmark,9485,Croatian,2.0
+942,Finland,7372,Croatian,5.0
+943,France,155288,Croatian,6.0
+944,Germany,115333,Croatian,805.0
+945,Greece,33763,Croatian,5.0
+946,Hungary,7431,Croatian,2.0
+947,Ireland,11203,Croatian,4.0
+948,Italy,224763,Croatian,6.0
+949,Poland,24698,Croatian,17.0
+950,Slovakia,4251,Croatian,4.0
+951,Spain,157479,Croatian,5.0
+952,Sweden,18555,Croatian,4.0
+953,The Netherlands,29792,Croatian,4.0
+954,United Kingdom,171664,Croatian,9.0
+955,Austria,20487,American,369.0
+956,Belgium,23711,American,453.0
+957,Bulgaria,4469,American,148.0
+958,Croatia,8375,American,172.0
+959,Czech Republic,14844,American,542.0
+960,Denmark,9485,American,410.0
+961,Finland,7372,American,313.0
+962,France,155288,American,4385.0
+963,Germany,115333,American,2466.0
+964,Greece,33763,American,746.0
+965,Hungary,7431,American,422.0
+966,Ireland,11203,American,387.0
+967,Italy,224763,American,3933.0
+968,Poland,24698,American,1219.0
+969,Portugal,32592,American,432.0
+970,Romania,7842,American,455.0
+971,Slovakia,4251,American,151.0
+972,Spain,157479,American,4121.0
+973,Sweden,18555,American,753.0
+974,The Netherlands,29792,American,821.0
+975,United Kingdom,171664,American,5223.0
+976,Austria,20487,South American,57.0
+977,Belgium,23711,South American,99.0
+978,Bulgaria,4469,South American,12.0
+979,Croatia,8375,South American,12.0
+980,Czech Republic,14844,South American,30.0
+981,Denmark,9485,South American,40.0
+982,Finland,7372,South American,23.0
+983,France,155288,South American,489.0
+984,Germany,115333,South American,418.0
+985,Greece,33763,South American,35.0
+986,Hungary,7431,South American,18.0
+987,Ireland,11203,South American,29.0
+988,Italy,224763,South American,780.0
+989,Poland,24698,South American,65.0
+990,Portugal,32592,South American,789.0
+991,Romania,7842,South American,31.0
+992,Slovakia,4251,South American,6.0
+993,Spain,157479,South American,2573.0
+994,Sweden,18555,South American,69.0
+995,The Netherlands,29792,South American,320.0
+996,United Kingdom,171664,South American,425.0
+997,Austria,20487,Central American,26.0
+998,Belgium,23711,Central American,25.0
+999,Bulgaria,4469,Central American,6.0
+1000,Croatia,8375,Central American,4.0
+1001,Czech Republic,14844,Central American,17.0
+1002,Denmark,9485,Central American,12.0
+1003,Finland,7372,Central American,16.0
+1004,France,155288,Central American,214.0
+1005,Germany,115333,Central American,187.0
+1006,Greece,33763,Central American,27.0
+1007,Hungary,7431,Central American,13.0
+1008,Ireland,11203,Central American,8.0
+1009,Italy,224763,Central American,272.0
+1010,Poland,24698,Central American,48.0
+1011,Portugal,32592,Central American,18.0
+1012,Romania,7842,Central American,10.0
+1013,Slovakia,4251,Central American,1.0
+1014,Spain,157479,Central American,388.0
+1015,Sweden,18555,Central American,17.0
+1016,The Netherlands,29792,Central American,41.0
+1017,United Kingdom,171664,Central American,217.0
+1018,Austria,20487,Fusion,183.0
+1019,Belgium,23711,Fusion,252.0
+1020,Bulgaria,4469,Fusion,74.0
+1021,Croatia,8375,Fusion,80.0
+1022,Czech Republic,14844,Fusion,69.0
+1023,Denmark,9485,Fusion,63.0
+1024,Finland,7372,Fusion,89.0
+1025,France,155288,Fusion,1026.0
+1026,Germany,115333,Fusion,644.0
+1027,Greece,33763,Fusion,155.0
+1028,Hungary,7431,Fusion,61.0
+1029,Ireland,11203,Fusion,122.0
+1030,Italy,224763,Fusion,1490.0
+1031,Poland,24698,Fusion,402.0
+1032,Portugal,32592,Fusion,361.0
+1033,Romania,7842,Fusion,115.0
+1034,Slovakia,4251,Fusion,25.0
+1035,Spain,157479,Fusion,3851.0
+1036,Sweden,18555,Fusion,131.0
+1037,The Netherlands,29792,Fusion,421.0
+1038,United Kingdom,171664,Fusion,1088.0
+1039,Austria,20487,French,112.0
+1040,Belgium,23711,French,4634.0
+1041,Bulgaria,4469,French,101.0
+1042,Croatia,8375,French,44.0
+1043,Czech Republic,14844,French,281.0
+1044,Denmark,9485,French,328.0
+1045,Finland,7372,French,81.0
+1046,France,155288,French,84643.0
+1047,Germany,115333,French,1237.0
+1048,Greece,33763,French,245.0
+1049,Hungary,7431,French,111.0
+1050,Ireland,11203,French,143.0
+1051,Italy,224763,French,413.0
+1052,Poland,24698,French,313.0
+1053,Portugal,32592,French,345.0
+1054,Romania,7842,French,292.0
+1055,Slovakia,4251,French,64.0
+1056,Spain,157479,French,1248.0
+1057,Sweden,18555,French,283.0
+1058,The Netherlands,29792,French,2043.0
+1059,United Kingdom,171664,French,1519.0
+1060,Austria,20487,Vietnamese,109.0
+1061,Belgium,23711,Vietnamese,208.0
+1062,Bulgaria,4469,Vietnamese,3.0
+1063,Czech Republic,14844,Vietnamese,264.0
+1064,Denmark,9485,Vietnamese,77.0
+1065,Finland,7372,Vietnamese,82.0
+1066,France,155288,Vietnamese,3213.0
+1067,Germany,115333,Vietnamese,1844.0
+1068,Greece,33763,Vietnamese,14.0
+1069,Hungary,7431,Vietnamese,61.0
+1070,Ireland,11203,Vietnamese,25.0
+1071,Italy,224763,Vietnamese,52.0
+1072,Poland,24698,Vietnamese,187.0
+1073,Portugal,32592,Vietnamese,22.0
+1074,Romania,7842,Vietnamese,18.0
+1075,Slovakia,4251,Vietnamese,43.0
+1076,Spain,157479,Vietnamese,119.0
+1077,Sweden,18555,Vietnamese,131.0
+1078,The Netherlands,29792,Vietnamese,126.0
+1079,United Kingdom,171664,Vietnamese,407.0
+1080,Austria,20487,Brew Pub,102.0
+1081,Belgium,23711,Brew Pub,149.0
+1082,Bulgaria,4469,Brew Pub,16.0
+1083,Croatia,8375,Brew Pub,27.0
+1084,Czech Republic,14844,Brew Pub,110.0
+1085,Denmark,9485,Brew Pub,41.0
+1086,Finland,7372,Brew Pub,15.0
+1087,France,155288,Brew Pub,1629.0
+1088,Germany,115333,Brew Pub,468.0
+1089,Greece,33763,Brew Pub,251.0
+1090,Hungary,7431,Brew Pub,38.0
+1091,Ireland,11203,Brew Pub,34.0
+1092,Italy,224763,Brew Pub,3969.0
+1093,Poland,24698,Brew Pub,280.0
+1094,Portugal,32592,Brew Pub,189.0
+1095,Romania,7842,Brew Pub,40.0
+1096,Slovakia,4251,Brew Pub,38.0
+1097,Spain,157479,Brew Pub,809.0
+1098,Sweden,18555,Brew Pub,38.0
+1099,The Netherlands,29792,Brew Pub,45.0
+1100,United Kingdom,171664,Brew Pub,857.0
+1101,Austria,20487,Beer restaurants,43.0
+1102,Belgium,23711,Beer restaurants,31.0
+1103,Bulgaria,4469,Beer restaurants,15.0
+1104,Croatia,8375,Beer restaurants,17.0
+1105,Czech Republic,14844,Beer restaurants,45.0
+1106,Denmark,9485,Beer restaurants,9.0
+1107,Finland,7372,Beer restaurants,34.0
+1108,France,155288,Beer restaurants,77.0
+1109,Germany,115333,Beer restaurants,279.0
+1110,Greece,33763,Beer restaurants,118.0
+1111,Hungary,7431,Beer restaurants,19.0
+1112,Ireland,11203,Beer restaurants,13.0
+1113,Italy,224763,Beer restaurants,475.0
+1114,Poland,24698,Beer restaurants,43.0
+1115,Portugal,32592,Beer restaurants,128.0
+1116,Romania,7842,Beer restaurants,20.0
+1117,Slovakia,4251,Beer restaurants,29.0
+1118,Spain,157479,Beer restaurants,427.0
+1119,Sweden,18555,Beer restaurants,32.0
+1120,The Netherlands,29792,Beer restaurants,40.0
+1121,United Kingdom,171664,Beer restaurants,307.0
+1122,Austria,20487,Hungarian,40.0
+1123,Belgium,23711,Hungarian,3.0
+1124,Bulgaria,4469,Hungarian,4.0
+1125,Croatia,8375,Hungarian,12.0
+1126,Czech Republic,14844,Hungarian,11.0
+1127,Denmark,9485,Hungarian,1.0
+1128,Finland,7372,Hungarian,3.0
+1129,France,155288,Hungarian,10.0
+1130,Germany,115333,Hungarian,77.0
+1131,Greece,33763,Hungarian,8.0
+1132,Hungary,7431,Hungarian,3288.0
+1133,Ireland,11203,Hungarian,5.0
+1134,Italy,224763,Hungarian,11.0
+1135,Poland,24698,Hungarian,31.0
+1136,Romania,7842,Hungarian,140.0
+1137,Slovakia,4251,Hungarian,54.0
+1138,Spain,157479,Hungarian,18.0
+1139,Sweden,18555,Hungarian,8.0
+1140,The Netherlands,29792,Hungarian,4.0
+1141,United Kingdom,171664,Hungarian,53.0
+1142,Austria,20487,Dining bars,37.0
+1143,Belgium,23711,Dining bars,55.0
+1144,Bulgaria,4469,Dining bars,8.0
+1145,Croatia,8375,Dining bars,6.0
+1146,Czech Republic,14844,Dining bars,70.0
+1147,Denmark,9485,Dining bars,26.0
+1148,Finland,7372,Dining bars,15.0
+1149,France,155288,Dining bars,1495.0
+1150,Germany,115333,Dining bars,237.0
+1151,Greece,33763,Dining bars,191.0
+1152,Hungary,7431,Dining bars,22.0
+1153,Ireland,11203,Dining bars,8.0
+1154,Italy,224763,Dining bars,884.0
+1155,Poland,24698,Dining bars,91.0
+1156,Portugal,32592,Dining bars,326.0
+1157,Romania,7842,Dining bars,15.0
+1158,Slovakia,4251,Dining bars,28.0
+1159,Spain,157479,Dining bars,1288.0
+1160,Sweden,18555,Dining bars,17.0
+1161,The Netherlands,29792,Dining bars,32.0
+1162,United Kingdom,171664,Dining bars,207.0
+1163,Austria,20487,Balti,10.0
+1164,Bulgaria,4469,Balti,1.0
+1165,Czech Republic,14844,Balti,1.0
+1166,Denmark,9485,Balti,1.0
+1167,Finland,7372,Balti,2.0
+1168,France,155288,Balti,1.0
+1169,Germany,115333,Balti,39.0
+1170,Greece,33763,Balti,18.0
+1171,Ireland,11203,Balti,92.0
+1172,Italy,224763,Balti,7.0
+1173,Poland,24698,Balti,7.0
+1174,Portugal,32592,Balti,58.0
+1175,Romania,7842,Balti,2.0
+1176,Spain,157479,Balti,297.0
+1177,Sweden,18555,Balti,1.0
+1178,The Netherlands,29792,Balti,7.0
+1179,United Kingdom,171664,Balti,5219.0
+1180,Austria,20487,Eastern European,50.0
+1181,Belgium,23711,Eastern European,27.0
+1182,Bulgaria,4469,Eastern European,980.0
+1183,Croatia,8375,Eastern European,170.0
+1184,Czech Republic,14844,Eastern European,401.0
+1185,Denmark,9485,Eastern European,5.0
+1186,Finland,7372,Eastern European,24.0
+1187,France,155288,Eastern European,152.0
+1188,Germany,115333,Eastern European,197.0
+1189,Greece,33763,Eastern European,107.0
+1190,Hungary,7431,Eastern European,465.0
+1191,Ireland,11203,Eastern European,32.0
+1192,Italy,224763,Eastern European,74.0
+1193,Poland,24698,Eastern European,785.0
+1194,Portugal,32592,Eastern European,24.0
+1195,Romania,7842,Eastern European,666.0
+1196,Slovakia,4251,Eastern European,242.0
+1197,Spain,157479,Eastern European,172.0
+1198,Sweden,18555,Eastern European,18.0
+1199,The Netherlands,29792,Eastern European,37.0
+1200,United Kingdom,171664,Eastern European,1346.0
+1201,Austria,20487,Central Asian,14.0
+1202,Belgium,23711,Central Asian,11.0
+1203,Bulgaria,4469,Central Asian,2.0
+1204,Croatia,8375,Central Asian,1.0
+1205,Czech Republic,14844,Central Asian,10.0
+1206,Denmark,9485,Central Asian,2.0
+1207,Finland,7372,Central Asian,1.0
+1208,France,155288,Central Asian,57.0
+1209,Germany,115333,Central Asian,37.0
+1210,Greece,33763,Central Asian,3.0
+1211,Hungary,7431,Central Asian,3.0
+1212,Ireland,11203,Central Asian,4.0
+1213,Italy,224763,Central Asian,59.0
+1214,Poland,24698,Central Asian,30.0
+1215,Portugal,32592,Central Asian,12.0
+1216,Romania,7842,Central Asian,3.0
+1217,Slovakia,4251,Central Asian,6.0
+1218,Spain,157479,Central Asian,145.0
+1219,Sweden,18555,Central Asian,4.0
+1220,The Netherlands,29792,Central Asian,20.0
+1221,United Kingdom,171664,Central Asian,62.0
+1222,Austria,20487,Colombian,3.0
+1223,Belgium,23711,Colombian,3.0
+1224,Bulgaria,4469,Colombian,2.0
+1225,Croatia,8375,Colombian,1.0
+1226,Czech Republic,14844,Colombian,1.0
+1227,Denmark,9485,Colombian,1.0
+1228,Finland,7372,Colombian,1.0
+1229,France,155288,Colombian,47.0
+1230,Germany,115333,Colombian,28.0
+1231,Greece,33763,Colombian,2.0
+1232,Hungary,7431,Colombian,1.0
+1233,Ireland,11203,Colombian,3.0
+1234,Italy,224763,Colombian,22.0
+1235,Poland,24698,Colombian,1.0
+1236,Portugal,32592,Colombian,2.0
+1237,Romania,7842,Colombian,7.0
+1238,Slovakia,4251,Colombian,1.0
+1239,Spain,157479,Colombian,260.0
+1240,Sweden,18555,Colombian,2.0
+1241,The Netherlands,29792,Colombian,15.0
+1242,United Kingdom,171664,Colombian,63.0
+1243,Austria,20487,Lebanese,19.0
+1244,Belgium,23711,Lebanese,156.0
+1245,Bulgaria,4469,Lebanese,10.0
+1246,Croatia,8375,Lebanese,4.0
+1247,Czech Republic,14844,Lebanese,17.0
+1248,Denmark,9485,Lebanese,33.0
+1249,Finland,7372,Lebanese,13.0
+1250,France,155288,Lebanese,974.0
+1251,Germany,115333,Lebanese,239.0
+1252,Greece,33763,Lebanese,47.0
+1253,Hungary,7431,Lebanese,11.0
+1254,Ireland,11203,Lebanese,28.0
+1255,Italy,224763,Lebanese,101.0
+1256,Poland,24698,Lebanese,54.0
+1257,Portugal,32592,Lebanese,18.0
+1258,Romania,7842,Lebanese,96.0
+1259,Spain,157479,Lebanese,249.0
+1260,Sweden,18555,Lebanese,153.0
+1261,The Netherlands,29792,Lebanese,75.0
+1262,United Kingdom,171664,Lebanese,781.0
+1263,Austria,20487,Arabic,43.0
+1264,Belgium,23711,Arabic,53.0
+1265,Bulgaria,4469,Arabic,14.0
+1266,Croatia,8375,Arabic,6.0
+1267,Czech Republic,14844,Arabic,29.0
+1268,Denmark,9485,Arabic,34.0
+1269,Finland,7372,Arabic,11.0
+1270,France,155288,Arabic,240.0
+1271,Germany,115333,Arabic,337.0
+1272,Greece,33763,Arabic,56.0
+1273,Hungary,7431,Arabic,22.0
+1274,Ireland,11203,Arabic,22.0
+1275,Italy,224763,Arabic,185.0
+1276,Poland,24698,Arabic,99.0
+1277,Portugal,32592,Arabic,19.0
+1278,Romania,7842,Arabic,49.0
+1279,Slovakia,4251,Arabic,8.0
+1280,Spain,157479,Arabic,242.0
+1281,Sweden,18555,Arabic,61.0
+1282,The Netherlands,29792,Arabic,126.0
+1283,United Kingdom,171664,Arabic,298.0
+1284,Austria,20487,Caucasian,2.0
+1285,Bulgaria,4469,Caucasian,4.0
+1286,Croatia,8375,Caucasian,2.0
+1287,Czech Republic,14844,Caucasian,6.0
+1288,Denmark,9485,Caucasian,1.0
+1289,Finland,7372,Caucasian,7.0
+1290,France,155288,Caucasian,18.0
+1291,Germany,115333,Caucasian,14.0
+1292,Greece,33763,Caucasian,4.0
+1293,Hungary,7431,Caucasian,1.0
+1294,Ireland,11203,Caucasian,1.0
+1295,Italy,224763,Caucasian,9.0
+1296,Poland,24698,Caucasian,23.0
+1297,Portugal,32592,Caucasian,7.0
+1298,Romania,7842,Caucasian,3.0
+1299,Slovakia,4251,Caucasian,1.0
+1300,Spain,157479,Caucasian,23.0
+1301,Sweden,18555,Caucasian,156.0
+1302,The Netherlands,29792,Caucasian,4.0
+1303,United Kingdom,171664,Caucasian,32.0
+1304,Austria,20487,Swiss,24.0
+1305,Belgium,23711,Swiss,29.0
+1306,Bulgaria,4469,Swiss,2.0
+1307,Czech Republic,14844,Swiss,4.0
+1308,Denmark,9485,Swiss,1.0
+1309,Finland,7372,Swiss,3.0
+1310,France,155288,Swiss,93.0
+1311,Germany,115333,Swiss,85.0
+1312,Greece,33763,Swiss,7.0
+1313,Hungary,7431,Swiss,3.0
+1314,Italy,224763,Swiss,25.0
+1315,Poland,24698,Swiss,9.0
+1316,Portugal,32592,Swiss,11.0
+1317,Romania,7842,Swiss,3.0
+1318,Slovakia,4251,Swiss,1.0
+1319,Spain,157479,Swiss,57.0
+1320,Sweden,18555,Swiss,4.0
+1321,The Netherlands,29792,Swiss,11.0
+1322,United Kingdom,171664,Swiss,16.0
+1323,Austria,20487,Northern-Italian,13.0
+1324,Belgium,23711,Northern-Italian,21.0
+1325,Bulgaria,4469,Northern-Italian,2.0
+1326,Croatia,8375,Northern-Italian,6.0
+1327,Czech Republic,14844,Northern-Italian,6.0
+1328,Denmark,9485,Northern-Italian,8.0
+1329,Finland,7372,Northern-Italian,1.0
+1330,France,155288,Northern-Italian,141.0
+1331,Germany,115333,Northern-Italian,106.0
+1332,Greece,33763,Northern-Italian,20.0
+1333,Hungary,7431,Northern-Italian,5.0
+1334,Italy,224763,Northern-Italian,9727.0
+1335,Poland,24698,Northern-Italian,22.0
+1336,Portugal,32592,Northern-Italian,6.0
+1337,Romania,7842,Northern-Italian,8.0
+1338,Slovakia,4251,Northern-Italian,4.0
+1339,Spain,157479,Northern-Italian,76.0
+1340,Sweden,18555,Northern-Italian,2.0
+1341,The Netherlands,29792,Northern-Italian,25.0
+1342,United Kingdom,171664,Northern-Italian,50.0
+1343,Austria,20487,Korean,49.0
+1344,Belgium,23711,Korean,32.0
+1345,Bulgaria,4469,Korean,8.0
+1346,Croatia,8375,Korean,11.0
+1347,Czech Republic,14844,Korean,32.0
+1348,Denmark,9485,Korean,17.0
+1349,Finland,7372,Korean,25.0
+1350,France,155288,Korean,365.0
+1351,Germany,115333,Korean,303.0
+1352,Greece,33763,Korean,7.0
+1353,Hungary,7431,Korean,18.0
+1354,Ireland,11203,Korean,18.0
+1355,Italy,224763,Korean,83.0
+1356,Poland,24698,Korean,79.0
+1357,Portugal,32592,Korean,18.0
+1358,Romania,7842,Korean,8.0
+1359,Slovakia,4251,Korean,3.0
+1360,Spain,157479,Korean,159.0
+1361,Sweden,18555,Korean,76.0
+1362,The Netherlands,29792,Korean,64.0
+1363,United Kingdom,171664,Korean,386.0
+1364,Austria,20487,Latin,39.0
+1365,Belgium,23711,Latin,45.0
+1366,Bulgaria,4469,Latin,7.0
+1367,Croatia,8375,Latin,8.0
+1368,Czech Republic,14844,Latin,28.0
+1369,Denmark,9485,Latin,37.0
+1370,Finland,7372,Latin,19.0
+1371,France,155288,Latin,318.0
+1372,Germany,115333,Latin,269.0
+1373,Greece,33763,Latin,52.0
+1374,Hungary,7431,Latin,12.0
+1375,Ireland,11203,Latin,12.0
+1376,Italy,224763,Latin,265.0
+1377,Poland,24698,Latin,35.0
+1378,Portugal,32592,Latin,88.0
+1379,Romania,7842,Latin,12.0
+1380,Slovakia,4251,Latin,5.0
+1381,Spain,157479,Latin,1363.0
+1382,Sweden,18555,Latin,46.0
+1383,The Netherlands,29792,Latin,93.0
+1384,United Kingdom,171664,Latin,279.0
+1385,Austria,20487,Israeli,24.0
+1386,Belgium,23711,Israeli,13.0
+1387,Bulgaria,4469,Israeli,7.0
+1388,Croatia,8375,Israeli,2.0
+1389,Czech Republic,14844,Israeli,12.0
+1390,Denmark,9485,Israeli,6.0
+1391,Finland,7372,Israeli,5.0
+1392,France,155288,Israeli,91.0
+1393,Germany,115333,Israeli,95.0
+1394,Greece,33763,Israeli,7.0
+1395,Hungary,7431,Israeli,27.0
+1396,Ireland,11203,Israeli,1.0
+1397,Italy,224763,Israeli,74.0
+1398,Poland,24698,Israeli,72.0
+1399,Portugal,32592,Israeli,12.0
+1400,Romania,7842,Israeli,11.0
+1401,Slovakia,4251,Israeli,5.0
+1402,Spain,157479,Israeli,31.0
+1403,Sweden,18555,Israeli,9.0
+1404,The Netherlands,29792,Israeli,35.0
+1405,United Kingdom,171664,Israeli,72.0
+1406,Austria,20487,Sicilian,13.0
+1407,Belgium,23711,Sicilian,44.0
+1408,Bulgaria,4469,Sicilian,4.0
+1409,Czech Republic,14844,Sicilian,3.0
+1410,Denmark,9485,Sicilian,15.0
+1411,Finland,7372,Sicilian,3.0
+1412,France,155288,Sicilian,153.0
+1413,Germany,115333,Sicilian,109.0
+1414,Greece,33763,Sicilian,12.0
+1415,Hungary,7431,Sicilian,16.0
+1416,Ireland,11203,Sicilian,14.0
+1417,Italy,224763,Sicilian,4611.0
+1418,Poland,24698,Sicilian,28.0
+1419,Portugal,32592,Sicilian,8.0
+1420,Romania,7842,Sicilian,10.0
+1421,Slovakia,4251,Sicilian,4.0
+1422,Spain,157479,Sicilian,232.0
+1423,Sweden,18555,Sicilian,1.0
+1424,The Netherlands,29792,Sicilian,28.0
+1425,United Kingdom,171664,Sicilian,358.0
+1426,Austria,20487,African,12.0
+1427,Belgium,23711,African,79.0
+1428,Bulgaria,4469,African,4.0
+1429,Croatia,8375,African,8.0
+1430,Czech Republic,14844,African,6.0
+1431,Denmark,9485,African,19.0
+1432,Finland,7372,African,6.0
+1433,France,155288,African,767.0
+1434,Germany,115333,African,194.0
+1435,Greece,33763,African,14.0
+1436,Hungary,7431,African,7.0
+1437,Ireland,11203,African,12.0
+1438,Italy,224763,African,166.0
+1439,Poland,24698,African,18.0
+1440,Portugal,32592,African,126.0
+1441,Romania,7842,African,18.0
+1442,Slovakia,4251,African,5.0
+1443,Spain,157479,African,170.0
+1444,Sweden,18555,African,32.0
+1445,The Netherlands,29792,African,78.0
+1446,United Kingdom,171664,African,456.0
+1447,Austria,20487,Tunisian,3.0
+1448,Belgium,23711,Tunisian,59.0
+1449,Finland,7372,Tunisian,1.0
+1450,France,155288,Tunisian,471.0
+1451,Germany,115333,Tunisian,13.0
+1452,Ireland,11203,Tunisian,2.0
+1453,Italy,224763,Tunisian,67.0
+1454,Poland,24698,Tunisian,10.0
+1455,Portugal,32592,Tunisian,3.0
+1456,Romania,7842,Tunisian,1.0
+1457,Spain,157479,Tunisian,5.0
+1458,Sweden,18555,Tunisian,2.0
+1459,The Netherlands,29792,Tunisian,8.0
+1460,United Kingdom,171664,Tunisian,16.0
+1461,Austria,20487,Swedish,8.0
+1462,Belgium,23711,Swedish,5.0
+1463,Bulgaria,4469,Swedish,2.0
+1464,Croatia,8375,Swedish,3.0
+1465,Czech Republic,14844,Swedish,5.0
+1466,Denmark,9485,Swedish,10.0
+1467,Finland,7372,Swedish,18.0
+1468,France,155288,Swedish,36.0
+1469,Germany,115333,Swedish,40.0
+1470,Greece,33763,Swedish,6.0
+1471,Hungary,7431,Swedish,1.0
+1472,Ireland,11203,Swedish,1.0
+1473,Italy,224763,Swedish,28.0
+1474,Poland,24698,Swedish,13.0
+1475,Portugal,32592,Swedish,5.0
+1476,Romania,7842,Swedish,1.0
+1477,Spain,157479,Swedish,64.0
+1478,Sweden,18555,Swedish,4400.0
+1479,The Netherlands,29792,Swedish,18.0
+1480,United Kingdom,171664,Swedish,59.0
+1481,Austria,20487,Medicinal foods,8.0
+1482,Belgium,23711,Medicinal foods,3.0
+1483,Croatia,8375,Medicinal foods,2.0
+1484,Czech Republic,14844,Medicinal foods,3.0
+1485,Denmark,9485,Medicinal foods,1.0
+1486,Finland,7372,Medicinal foods,1.0
+1487,France,155288,Medicinal foods,8.0
+1488,Germany,115333,Medicinal foods,19.0
+1489,Greece,33763,Medicinal foods,6.0
+1490,Hungary,7431,Medicinal foods,1.0
+1491,Ireland,11203,Medicinal foods,2.0
+1492,Italy,224763,Medicinal foods,47.0
+1493,Poland,24698,Medicinal foods,10.0
+1494,Portugal,32592,Medicinal foods,8.0
+1495,Slovakia,4251,Medicinal foods,2.0
+1496,Spain,157479,Medicinal foods,48.0
+1497,Sweden,18555,Medicinal foods,7.0
+1498,The Netherlands,29792,Medicinal foods,2.0
+1499,United Kingdom,171664,Medicinal foods,16.0
+1500,Austria,20487,Taiwanese,15.0
+1501,Belgium,23711,Taiwanese,14.0
+1502,Bulgaria,4469,Taiwanese,1.0
+1503,Croatia,8375,Taiwanese,1.0
+1504,Czech Republic,14844,Taiwanese,7.0
+1505,Denmark,9485,Taiwanese,6.0
+1506,Finland,7372,Taiwanese,2.0
+1507,France,155288,Taiwanese,72.0
+1508,Germany,115333,Taiwanese,44.0
+1509,Greece,33763,Taiwanese,2.0
+1510,Hungary,7431,Taiwanese,6.0
+1511,Ireland,11203,Taiwanese,10.0
+1512,Italy,224763,Taiwanese,35.0
+1513,Poland,24698,Taiwanese,10.0
+1514,Portugal,32592,Taiwanese,11.0
+1515,Romania,7842,Taiwanese,3.0
+1516,Slovakia,4251,Taiwanese,2.0
+1517,Spain,157479,Taiwanese,42.0
+1518,Sweden,18555,Taiwanese,9.0
+1519,The Netherlands,29792,Taiwanese,14.0
+1520,United Kingdom,171664,Taiwanese,128.0
+1521,Austria,20487,Australian,14.0
+1522,Belgium,23711,Australian,15.0
+1523,Bulgaria,4469,Australian,1.0
+1524,Croatia,8375,Australian,1.0
+1525,Czech Republic,14844,Australian,6.0
+1526,Denmark,9485,Australian,1.0
+1527,Finland,7372,Australian,6.0
+1528,France,155288,Australian,37.0
+1529,Germany,115333,Australian,45.0
+1530,Greece,33763,Australian,8.0
+1531,Ireland,11203,Australian,13.0
+1532,Italy,224763,Australian,29.0
+1533,Poland,24698,Australian,7.0
+1534,Portugal,32592,Australian,5.0
+1535,Romania,7842,Australian,1.0
+1536,Slovakia,4251,Australian,5.0
+1537,Spain,157479,Australian,27.0
+1538,Sweden,18555,Australian,5.0
+1539,The Netherlands,29792,Australian,25.0
+1540,United Kingdom,171664,Australian,133.0
+1541,Austria,20487,Sardinian,3.0
+1542,Belgium,23711,Sardinian,7.0
+1543,Czech Republic,14844,Sardinian,1.0
+1544,Denmark,9485,Sardinian,2.0
+1545,France,155288,Sardinian,27.0
+1546,Germany,115333,Sardinian,27.0
+1547,Ireland,11203,Sardinian,2.0
+1548,Italy,224763,Sardinian,2098.0
+1549,Poland,24698,Sardinian,7.0
+1550,Slovakia,4251,Sardinian,1.0
+1551,Spain,157479,Sardinian,15.0
+1552,Sweden,18555,Sardinian,3.0
+1553,The Netherlands,29792,Sardinian,11.0
+1554,United Kingdom,171664,Sardinian,48.0
+1555,Austria,20487,Cajun & Creole,6.0
+1556,Belgium,23711,Cajun & Creole,5.0
+1557,Bulgaria,4469,Cajun & Creole,1.0
+1558,Czech Republic,14844,Cajun & Creole,3.0
+1559,Finland,7372,Cajun & Creole,3.0
+1560,France,155288,Cajun & Creole,304.0
+1561,Germany,115333,Cajun & Creole,29.0
+1562,Greece,33763,Cajun & Creole,3.0
+1563,Hungary,7431,Cajun & Creole,5.0
+1564,Ireland,11203,Cajun & Creole,4.0
+1565,Italy,224763,Cajun & Creole,10.0
+1566,Poland,24698,Cajun & Creole,7.0
+1567,Romania,7842,Cajun & Creole,3.0
+1568,Spain,157479,Cajun & Creole,43.0
+1569,Sweden,18555,Cajun & Creole,5.0
+1570,The Netherlands,29792,Cajun & Creole,19.0
+1571,United Kingdom,171664,Cajun & Creole,57.0
+1572,Austria,20487,Argentinian,13.0
+1573,Belgium,23711,Argentinian,33.0
+1574,Bulgaria,4469,Argentinian,3.0
+1575,Czech Republic,14844,Argentinian,12.0
+1576,Denmark,9485,Argentinian,12.0
+1577,Finland,7372,Argentinian,2.0
+1578,France,155288,Argentinian,146.0
+1579,Germany,115333,Argentinian,160.0
+1580,Greece,33763,Argentinian,13.0
+1581,Hungary,7431,Argentinian,4.0
+1582,Ireland,11203,Argentinian,3.0
+1583,Italy,224763,Argentinian,274.0
+1584,Poland,24698,Argentinian,18.0
+1585,Portugal,32592,Argentinian,41.0
+1586,Romania,7842,Argentinian,7.0
+1587,Slovakia,4251,Argentinian,3.0
+1588,Spain,157479,Argentinian,1445.0
+1589,Sweden,18555,Argentinian,7.0
+1590,The Netherlands,29792,Argentinian,205.0
+1591,United Kingdom,171664,Argentinian,108.0
+1592,Austria,20487,Chilean,2.0
+1593,Belgium,23711,Chilean,4.0
+1594,France,155288,Chilean,25.0
+1595,Germany,115333,Chilean,22.0
+1596,Greece,33763,Chilean,1.0
+1597,Italy,224763,Chilean,5.0
+1598,Poland,24698,Chilean,4.0
+1599,Portugal,32592,Chilean,5.0
+1600,Spain,157479,Chilean,52.0
+1601,Sweden,18555,Chilean,8.0
+1602,The Netherlands,29792,Chilean,5.0
+1603,United Kingdom,171664,Chilean,13.0
+1604,Austria,20487,Dutch,5.0
+1605,Belgium,23711,Dutch,1176.0
+1606,Bulgaria,4469,Dutch,1.0
+1607,Croatia,8375,Dutch,2.0
+1608,Czech Republic,14844,Dutch,10.0
+1609,Denmark,9485,Dutch,3.0
+1610,Finland,7372,Dutch,2.0
+1611,France,155288,Dutch,24.0
+1612,Germany,115333,Dutch,117.0
+1613,Greece,33763,Dutch,16.0
+1614,Ireland,11203,Dutch,3.0
+1615,Italy,224763,Dutch,38.0
+1616,Poland,24698,Dutch,5.0
+1617,Portugal,32592,Dutch,23.0
+1618,Romania,7842,Dutch,2.0
+1619,Slovakia,4251,Dutch,3.0
+1620,Spain,157479,Dutch,188.0
+1621,Sweden,18555,Dutch,8.0
+1622,The Netherlands,29792,Dutch,12410.0
+1623,United Kingdom,171664,Dutch,40.0
+1624,Austria,20487,Romanian,4.0
+1625,Belgium,23711,Romanian,8.0
+1626,Bulgaria,4469,Romanian,3.0
+1627,Czech Republic,14844,Romanian,2.0
+1628,Denmark,9485,Romanian,1.0
+1629,Finland,7372,Romanian,3.0
+1630,France,155288,Romanian,15.0
+1631,Germany,115333,Romanian,28.0
+1632,Greece,33763,Romanian,6.0
+1633,Hungary,7431,Romanian,4.0
+1634,Ireland,11203,Romanian,3.0
+1635,Italy,224763,Romanian,60.0
+1636,Poland,24698,Romanian,2.0
+1637,Portugal,32592,Romanian,6.0
+1638,Romania,7842,Romanian,2748.0
+1639,Slovakia,4251,Romanian,2.0
+1640,Spain,157479,Romanian,81.0
+1641,The Netherlands,29792,Romanian,6.0
+1642,United Kingdom,171664,Romanian,80.0
+1643,Austria,20487,Armenian,4.0
+1644,Belgium,23711,Armenian,5.0
+1645,Bulgaria,4469,Armenian,20.0
+1646,Czech Republic,14844,Armenian,6.0
+1647,Denmark,9485,Armenian,2.0
+1648,Finland,7372,Armenian,1.0
+1649,France,155288,Armenian,110.0
+1650,Germany,115333,Armenian,14.0
+1651,Greece,33763,Armenian,22.0
+1652,Ireland,11203,Armenian,5.0
+1653,Italy,224763,Armenian,13.0
+1654,Poland,24698,Armenian,20.0
+1655,Portugal,32592,Armenian,3.0
+1656,Romania,7842,Armenian,2.0
+1657,Slovakia,4251,Armenian,4.0
+1658,Spain,157479,Armenian,33.0
+1659,Sweden,18555,Armenian,3.0
+1660,The Netherlands,29792,Armenian,7.0
+1661,United Kingdom,171664,Armenian,39.0
+1662,Austria,20487,Czech,12.0
+1663,Belgium,23711,Czech,1.0
+1664,Bulgaria,4469,Czech,6.0
+1665,Croatia,8375,Czech,5.0
+1666,Czech Republic,14844,Czech,5394.0
+1667,Finland,7372,Czech,2.0
+1668,France,155288,Czech,3.0
+1669,Germany,115333,Czech,54.0
+1670,Greece,33763,Czech,7.0
+1671,Hungary,7431,Czech,10.0
+1672,Ireland,11203,Czech,3.0
+1673,Italy,224763,Czech,6.0
+1674,Poland,24698,Czech,65.0
+1675,Romania,7842,Czech,4.0
+1676,Slovakia,4251,Czech,105.0
+1677,Spain,157479,Czech,11.0
+1678,Sweden,18555,Czech,12.0
+1679,The Netherlands,29792,Czech,2.0
+1680,United Kingdom,171664,Czech,14.0
+1681,Austria,20487,Russian,13.0
+1682,Belgium,23711,Russian,9.0
+1683,Bulgaria,4469,Russian,42.0
+1684,Croatia,8375,Russian,5.0
+1685,Czech Republic,14844,Russian,36.0
+1686,Denmark,9485,Russian,3.0
+1687,Finland,7372,Russian,20.0
+1688,France,155288,Russian,79.0
+1689,Germany,115333,Russian,147.0
+1690,Greece,33763,Russian,15.0
+1691,Hungary,7431,Russian,14.0
+1692,Ireland,11203,Russian,1.0
+1693,Italy,224763,Russian,49.0
+1694,Poland,24698,Russian,66.0
+1695,Portugal,32592,Russian,7.0
+1696,Romania,7842,Russian,10.0
+1697,Slovakia,4251,Russian,7.0
+1698,Spain,157479,Russian,105.0
+1699,Sweden,18555,Russian,3.0
+1700,The Netherlands,29792,Russian,7.0
+1701,United Kingdom,171664,Russian,34.0
+1702,Austria,20487,Irish,21.0
+1703,Belgium,23711,Irish,21.0
+1704,Bulgaria,4469,Irish,9.0
+1705,Croatia,8375,Irish,6.0
+1706,Czech Republic,14844,Irish,19.0
+1707,Denmark,9485,Irish,8.0
+1708,Finland,7372,Irish,8.0
+1709,France,155288,Irish,111.0
+1710,Germany,115333,Irish,132.0
+1711,Greece,33763,Irish,11.0
+1712,Hungary,7431,Irish,7.0
+1713,Ireland,11203,Irish,4580.0
+1714,Italy,224763,Irish,171.0
+1715,Poland,24698,Irish,13.0
+1716,Portugal,32592,Irish,25.0
+1717,Romania,7842,Irish,20.0
+1718,Slovakia,4251,Irish,5.0
+1719,Spain,157479,Irish,271.0
+1720,Sweden,18555,Irish,20.0
+1721,The Netherlands,29792,Irish,42.0
+1722,United Kingdom,171664,Irish,838.0
+1723,Austria,20487,Bangladeshi,2.0
+1724,Belgium,23711,Bangladeshi,5.0
+1725,Bulgaria,4469,Bangladeshi,1.0
+1726,Czech Republic,14844,Bangladeshi,7.0
+1727,Denmark,9485,Bangladeshi,1.0
+1728,Finland,7372,Bangladeshi,3.0
+1729,France,155288,Bangladeshi,40.0
+1730,Germany,115333,Bangladeshi,11.0
+1731,Greece,33763,Bangladeshi,6.0
+1732,Hungary,7431,Bangladeshi,3.0
+1733,Ireland,11203,Bangladeshi,8.0
+1734,Italy,224763,Bangladeshi,33.0
+1735,Poland,24698,Bangladeshi,6.0
+1736,Portugal,32592,Bangladeshi,6.0
+1737,Spain,157479,Bangladeshi,40.0
+1738,Sweden,18555,Bangladeshi,21.0
+1739,The Netherlands,29792,Bangladeshi,1.0
+1740,United Kingdom,171664,Bangladeshi,3310.0
+1741,Austria,20487,Hawaiian,13.0
+1742,Belgium,23711,Hawaiian,29.0
+1743,Bulgaria,4469,Hawaiian,2.0
+1744,Croatia,8375,Hawaiian,2.0
+1745,Czech Republic,14844,Hawaiian,7.0
+1746,Denmark,9485,Hawaiian,16.0
+1747,Finland,7372,Hawaiian,4.0
+1748,France,155288,Hawaiian,249.0
+1749,Germany,115333,Hawaiian,79.0
+1750,Greece,33763,Hawaiian,4.0
+1751,Hungary,7431,Hawaiian,3.0
+1752,Ireland,11203,Hawaiian,3.0
+1753,Italy,224763,Hawaiian,248.0
+1754,Poland,24698,Hawaiian,17.0
+1755,Portugal,32592,Hawaiian,26.0
+1756,Romania,7842,Hawaiian,2.0
+1757,Slovakia,4251,Hawaiian,5.0
+1758,Spain,157479,Hawaiian,247.0
+1759,Sweden,18555,Hawaiian,35.0
+1760,The Netherlands,29792,Hawaiian,64.0
+1761,United Kingdom,171664,Hawaiian,37.0
+1762,Austria,20487,Salvadoran,1.0
+1763,Denmark,9485,Salvadoran,1.0
+1764,France,155288,Salvadoran,3.0
+1765,Germany,115333,Salvadoran,4.0
+1766,Italy,224763,Salvadoran,3.0
+1767,Spain,157479,Salvadoran,10.0
+1768,United Kingdom,171664,Salvadoran,4.0
+1769,Austria,20487,Portuguese,10.0
+1770,Belgium,23711,Portuguese,80.0
+1771,Bulgaria,4469,Portuguese,2.0
+1772,Croatia,8375,Portuguese,1.0
+1773,Czech Republic,14844,Portuguese,4.0
+1774,Denmark,9485,Portuguese,6.0
+1775,Finland,7372,Portuguese,2.0
+1776,France,155288,Portuguese,748.0
+1777,Germany,115333,Portuguese,235.0
+1778,Greece,33763,Portuguese,5.0
+1779,Hungary,7431,Portuguese,5.0
+1780,Ireland,11203,Portuguese,22.0
+1781,Italy,224763,Portuguese,22.0
+1782,Poland,24698,Portuguese,11.0
+1783,Portugal,32592,Portuguese,21352.0
+1784,Romania,7842,Portuguese,13.0
+1785,Slovakia,4251,Portuguese,3.0
+1786,Spain,157479,Portuguese,273.0
+1787,Sweden,18555,Portuguese,2.0
+1788,The Netherlands,29792,Portuguese,52.0
+1789,United Kingdom,171664,Portuguese,933.0
+1790,Austria,20487,Polish,12.0
+1791,Belgium,23711,Polish,8.0
+1792,Bulgaria,4469,Polish,3.0
+1793,Croatia,8375,Polish,3.0
+1794,Czech Republic,14844,Polish,6.0
+1795,Denmark,9485,Polish,2.0
+1796,Finland,7372,Polish,1.0
+1797,France,155288,Polish,27.0
+1798,Germany,115333,Polish,104.0
+1799,Greece,33763,Polish,2.0
+1800,Hungary,7431,Polish,1.0
+1801,Ireland,11203,Polish,17.0
+1802,Italy,224763,Polish,15.0
+1803,Poland,24698,Polish,8865.0
+1804,Portugal,32592,Polish,4.0
+1805,Romania,7842,Polish,1.0
+1806,Slovakia,4251,Polish,5.0
+1807,Spain,157479,Polish,32.0
+1808,Sweden,18555,Polish,8.0
+1809,The Netherlands,29792,Polish,25.0
+1810,United Kingdom,171664,Polish,226.0
+1811,Austria,20487,Persian,28.0
+1812,Belgium,23711,Persian,20.0
+1813,Bulgaria,4469,Persian,1.0
+1814,Czech Republic,14844,Persian,2.0
+1815,Denmark,9485,Persian,9.0
+1816,Finland,7372,Persian,5.0
+1817,France,155288,Persian,53.0
+1818,Germany,115333,Persian,204.0
+1819,Greece,33763,Persian,5.0
+1820,Hungary,7431,Persian,11.0
+1821,Ireland,11203,Persian,3.0
+1822,Italy,224763,Persian,48.0
+1823,Poland,24698,Persian,9.0
+1824,Portugal,32592,Persian,10.0
+1825,Romania,7842,Persian,3.0
+1826,Slovakia,4251,Persian,1.0
+1827,Spain,157479,Persian,37.0
+1828,Sweden,18555,Persian,45.0
+1829,The Netherlands,29792,Persian,40.0
+1830,United Kingdom,171664,Persian,302.0
+1831,Austria,20487,Algerian,2.0
+1832,Belgium,23711,Algerian,2.0
+1833,Czech Republic,14844,Algerian,1.0
+1834,Denmark,9485,Algerian,1.0
+1835,France,155288,Algerian,157.0
+1836,Germany,115333,Algerian,13.0
+1837,Hungary,7431,Algerian,1.0
+1838,Ireland,11203,Algerian,1.0
+1839,Italy,224763,Algerian,4.0
+1840,Poland,24698,Algerian,1.0
+1841,Portugal,32592,Algerian,1.0
+1842,Romania,7842,Algerian,2.0
+1843,Spain,157479,Algerian,12.0
+1844,Sweden,18555,Algerian,1.0
+1845,The Netherlands,29792,Algerian,5.0
+1846,United Kingdom,171664,Algerian,14.0
+1847,Austria,20487,Egyptian,9.0
+1848,Belgium,23711,Egyptian,34.0
+1849,Bulgaria,4469,Egyptian,1.0
+1850,Czech Republic,14844,Egyptian,3.0
+1851,Denmark,9485,Egyptian,1.0
+1852,Finland,7372,Egyptian,4.0
+1853,France,155288,Egyptian,19.0
+1854,Germany,115333,Egyptian,21.0
+1855,Greece,33763,Egyptian,21.0
+1856,Hungary,7431,Egyptian,3.0
+1857,Italy,224763,Egyptian,130.0
+1858,Poland,24698,Egyptian,17.0
+1859,Portugal,32592,Egyptian,3.0
+1860,Romania,7842,Egyptian,1.0
+1861,Slovakia,4251,Egyptian,2.0
+1862,Spain,157479,Egyptian,17.0
+1863,Sweden,18555,Egyptian,2.0
+1864,The Netherlands,29792,Egyptian,68.0
+1865,United Kingdom,171664,Egyptian,59.0
+1866,Austria,20487,Scandinavian,5.0
+1867,Belgium,23711,Scandinavian,12.0
+1868,Bulgaria,4469,Scandinavian,1.0
+1869,Croatia,8375,Scandinavian,3.0
+1870,Czech Republic,14844,Scandinavian,7.0
+1871,Denmark,9485,Scandinavian,1066.0
+1872,Finland,7372,Scandinavian,1204.0
+1873,France,155288,Scandinavian,53.0
+1874,Germany,115333,Scandinavian,49.0
+1875,Greece,33763,Scandinavian,12.0
+1876,Hungary,7431,Scandinavian,3.0
+1877,Ireland,11203,Scandinavian,1.0
+1878,Italy,224763,Scandinavian,14.0
+1879,Poland,24698,Scandinavian,17.0
+1880,Portugal,32592,Scandinavian,5.0
+1881,Romania,7842,Scandinavian,5.0
+1882,Slovakia,4251,Scandinavian,1.0
+1883,Spain,157479,Scandinavian,126.0
+1884,Sweden,18555,Scandinavian,1743.0
+1885,The Netherlands,29792,Scandinavian,32.0
+1886,United Kingdom,171664,Scandinavian,115.0
+1887,Austria,20487,Albanian,3.0
+1888,Belgium,23711,Albanian,11.0
+1889,Bulgaria,4469,Albanian,5.0
+1890,Croatia,8375,Albanian,8.0
+1891,Czech Republic,14844,Albanian,1.0
+1892,Denmark,9485,Albanian,3.0
+1893,Finland,7372,Albanian,5.0
+1894,France,155288,Albanian,39.0
+1895,Germany,115333,Albanian,21.0
+1896,Greece,33763,Albanian,9.0
+1897,Hungary,7431,Albanian,1.0
+1898,Ireland,11203,Albanian,4.0
+1899,Italy,224763,Albanian,53.0
+1900,Poland,24698,Albanian,3.0
+1901,Portugal,32592,Albanian,12.0
+1902,Romania,7842,Albanian,2.0
+1903,Spain,157479,Albanian,64.0
+1904,Sweden,18555,Albanian,8.0
+1905,The Netherlands,29792,Albanian,4.0
+1906,United Kingdom,171664,Albanian,29.0
+1907,Austria,20487,Ukrainian,3.0
+1908,Belgium,23711,Ukrainian,1.0
+1909,Bulgaria,4469,Ukrainian,6.0
+1910,Croatia,8375,Ukrainian,1.0
+1911,Czech Republic,14844,Ukrainian,14.0
+1912,France,155288,Ukrainian,8.0
+1913,Germany,115333,Ukrainian,23.0
+1914,Greece,33763,Ukrainian,2.0
+1915,Hungary,7431,Ukrainian,2.0
+1916,Italy,224763,Ukrainian,18.0
+1917,Poland,24698,Ukrainian,104.0
+1918,Portugal,32592,Ukrainian,4.0
+1919,Romania,7842,Ukrainian,5.0
+1920,Slovakia,4251,Ukrainian,3.0
+1921,Spain,157479,Ukrainian,16.0
+1922,Sweden,18555,Ukrainian,1.0
+1923,The Netherlands,29792,Ukrainian,3.0
+1924,United Kingdom,171664,Ukrainian,10.0
+1925,Austria,20487,Belgian,5.0
+1926,Belgium,23711,Belgian,9992.0
+1927,Bulgaria,4469,Belgian,10.0
+1928,Croatia,8375,Belgian,3.0
+1929,Czech Republic,14844,Belgian,19.0
+1930,Denmark,9485,Belgian,6.0
+1931,Finland,7372,Belgian,5.0
+1932,France,155288,Belgian,542.0
+1933,Germany,115333,Belgian,47.0
+1934,Greece,33763,Belgian,17.0
+1935,Hungary,7431,Belgian,23.0
+1936,Ireland,11203,Belgian,3.0
+1937,Italy,224763,Belgian,30.0
+1938,Poland,24698,Belgian,39.0
+1939,Portugal,32592,Belgian,26.0
+1940,Romania,7842,Belgian,43.0
+1941,Slovakia,4251,Belgian,9.0
+1942,Spain,157479,Belgian,258.0
+1943,Sweden,18555,Belgian,14.0
+1944,The Netherlands,29792,Belgian,363.0
+1945,United Kingdom,171664,Belgian,95.0
+1946,Austria,20487,Indonesian,8.0
+1947,Belgium,23711,Indonesian,12.0
+1948,Bulgaria,4469,Indonesian,1.0
+1949,Croatia,8375,Indonesian,1.0
+1950,Czech Republic,14844,Indonesian,9.0
+1951,Denmark,9485,Indonesian,4.0
+1952,Finland,7372,Indonesian,2.0
+1953,France,155288,Indonesian,82.0
+1954,Germany,115333,Indonesian,39.0
+1955,Greece,33763,Indonesian,10.0
+1956,Hungary,7431,Indonesian,3.0
+1957,Ireland,11203,Indonesian,2.0
+1958,Italy,224763,Indonesian,12.0
+1959,Poland,24698,Indonesian,10.0
+1960,Portugal,32592,Indonesian,13.0
+1961,Romania,7842,Indonesian,1.0
+1962,Slovakia,4251,Indonesian,3.0
+1963,Spain,157479,Indonesian,61.0
+1964,Sweden,18555,Indonesian,11.0
+1965,The Netherlands,29792,Indonesian,615.0
+1966,United Kingdom,171664,Indonesian,56.0
+1967,Austria,20487,Southwestern,8.0
+1968,Belgium,23711,Southwestern,14.0
+1969,Bulgaria,4469,Southwestern,2.0
+1970,Croatia,8375,Southwestern,2.0
+1971,Czech Republic,14844,Southwestern,5.0
+1972,Denmark,9485,Southwestern,1.0
+1973,Finland,7372,Southwestern,30.0
+1974,France,155288,Southwestern,16.0
+1975,Germany,115333,Southwestern,69.0
+1976,Greece,33763,Southwestern,5.0
+1977,Hungary,7431,Southwestern,2.0
+1978,Ireland,11203,Southwestern,3.0
+1979,Italy,224763,Southwestern,102.0
+1980,Poland,24698,Southwestern,10.0
+1981,Portugal,32592,Southwestern,3.0
+1982,Romania,7842,Southwestern,1.0
+1983,Slovakia,4251,Southwestern,1.0
+1984,Spain,157479,Southwestern,21.0
+1985,Sweden,18555,Southwestern,23.0
+1986,The Netherlands,29792,Southwestern,7.0
+1987,United Kingdom,171664,Southwestern,36.0
+1988,Austria,20487,Nepalese,9.0
+1989,Belgium,23711,Nepalese,22.0
+1990,Bulgaria,4469,Nepalese,2.0
+1991,Czech Republic,14844,Nepalese,18.0
+1992,Denmark,9485,Nepalese,9.0
+1993,Finland,7372,Nepalese,103.0
+1994,France,155288,Nepalese,55.0
+1995,Germany,115333,Nepalese,49.0
+1996,Greece,33763,Nepalese,2.0
+1997,Hungary,7431,Nepalese,3.0
+1998,Ireland,11203,Nepalese,25.0
+1999,Italy,224763,Nepalese,9.0
+2000,Poland,24698,Nepalese,31.0
+2001,Portugal,32592,Nepalese,119.0
+2002,Spain,157479,Nepalese,92.0
+2003,Sweden,18555,Nepalese,13.0
+2004,The Netherlands,29792,Nepalese,36.0
+2005,United Kingdom,171664,Nepalese,455.0
+2006,Austria,20487,Ethiopian,5.0
+2007,Belgium,23711,Ethiopian,10.0
+2008,Bulgaria,4469,Ethiopian,1.0
+2009,Croatia,8375,Ethiopian,1.0
+2010,Czech Republic,14844,Ethiopian,2.0
+2011,Denmark,9485,Ethiopian,3.0
+2012,Finland,7372,Ethiopian,2.0
+2013,France,155288,Ethiopian,43.0
+2014,Germany,115333,Ethiopian,75.0
+2015,Greece,33763,Ethiopian,4.0
+2016,Hungary,7431,Ethiopian,1.0
+2017,Ireland,11203,Ethiopian,1.0
+2018,Italy,224763,Ethiopian,44.0
+2019,Poland,24698,Ethiopian,2.0
+2020,Portugal,32592,Ethiopian,1.0
+2021,Romania,7842,Ethiopian,10.0
+2022,Slovakia,4251,Ethiopian,2.0
+2023,Spain,157479,Ethiopian,11.0
+2024,Sweden,18555,Ethiopian,14.0
+2025,The Netherlands,29792,Ethiopian,33.0
+2026,United Kingdom,171664,Ethiopian,87.0
+2027,Austria,20487,Danish,3.0
+2028,Belgium,23711,Danish,3.0
+2029,Bulgaria,4469,Danish,3.0
+2030,Czech Republic,14844,Danish,1.0
+2031,Denmark,9485,Danish,2774.0
+2032,Finland,7372,Danish,6.0
+2033,France,155288,Danish,21.0
+2034,Germany,115333,Danish,25.0
+2035,Greece,33763,Danish,2.0
+2036,Hungary,7431,Danish,2.0
+2037,Ireland,11203,Danish,3.0
+2038,Italy,224763,Danish,5.0
+2039,Poland,24698,Danish,2.0
+2040,Portugal,32592,Danish,1.0
+2041,Romania,7842,Danish,2.0
+2042,Spain,157479,Danish,44.0
+2043,Sweden,18555,Danish,31.0
+2044,The Netherlands,29792,Danish,8.0
+2045,United Kingdom,171664,Danish,37.0
+2046,Austria,20487,Tibetan,5.0
+2047,Belgium,23711,Tibetan,11.0
+2048,Czech Republic,14844,Tibetan,6.0
+2049,Denmark,9485,Tibetan,2.0
+2050,Finland,7372,Tibetan,3.0
+2051,France,155288,Tibetan,47.0
+2052,Germany,115333,Tibetan,20.0
+2053,Greece,33763,Tibetan,1.0
+2054,Hungary,7431,Tibetan,1.0
+2055,Ireland,11203,Tibetan,1.0
+2056,Italy,224763,Tibetan,3.0
+2057,Poland,24698,Tibetan,3.0
+2058,Portugal,32592,Tibetan,11.0
+2059,Spain,157479,Tibetan,7.0
+2060,The Netherlands,29792,Tibetan,10.0
+2061,United Kingdom,171664,Tibetan,20.0
+2062,Austria,20487,Azerbaijani,1.0
+2063,Belgium,23711,Azerbaijani,2.0
+2064,Czech Republic,14844,Azerbaijani,3.0
+2065,Denmark,9485,Azerbaijani,2.0
+2066,France,155288,Azerbaijani,6.0
+2067,Germany,115333,Azerbaijani,6.0
+2068,Greece,33763,Azerbaijani,3.0
+2069,Ireland,11203,Azerbaijani,1.0
+2070,Italy,224763,Azerbaijani,4.0
+2071,Poland,24698,Azerbaijani,10.0
+2072,Spain,157479,Azerbaijani,8.0
+2073,Sweden,18555,Azerbaijani,1.0
+2074,The Netherlands,29792,Azerbaijani,2.0
+2075,United Kingdom,171664,Azerbaijani,7.0
+2076,Austria,20487,Mongolian,10.0
+2077,Belgium,23711,Mongolian,2.0
+2078,Croatia,8375,Mongolian,1.0
+2079,Czech Republic,14844,Mongolian,1.0
+2080,Denmark,9485,Mongolian,19.0
+2081,France,155288,Mongolian,9.0
+2082,Germany,115333,Mongolian,345.0
+2083,Hungary,7431,Mongolian,1.0
+2084,Ireland,11203,Mongolian,1.0
+2085,Italy,224763,Mongolian,8.0
+2086,Poland,24698,Mongolian,1.0
+2087,Portugal,32592,Mongolian,2.0
+2088,Spain,157479,Mongolian,7.0
+2089,Sweden,18555,Mongolian,19.0
+2090,The Netherlands,29792,Mongolian,6.0
+2091,United Kingdom,171664,Mongolian,8.0
+2092,Austria,20487,Moroccan,12.0
+2093,Belgium,23711,Moroccan,229.0
+2094,Bulgaria,4469,Moroccan,2.0
+2095,Czech Republic,14844,Moroccan,5.0
+2096,Denmark,9485,Moroccan,14.0
+2097,Finland,7372,Moroccan,11.0
+2098,France,155288,Moroccan,1820.0
+2099,Germany,115333,Moroccan,96.0
+2100,Greece,33763,Moroccan,6.0
+2101,Hungary,7431,Moroccan,4.0
+2102,Ireland,11203,Moroccan,7.0
+2103,Italy,224763,Moroccan,144.0
+2104,Poland,24698,Moroccan,17.0
+2105,Portugal,32592,Moroccan,16.0
+2106,Romania,7842,Moroccan,3.0
+2107,Slovakia,4251,Moroccan,1.0
+2108,Spain,157479,Moroccan,494.0
+2109,Sweden,18555,Moroccan,11.0
+2110,The Netherlands,29792,Moroccan,124.0
+2111,United Kingdom,171664,Moroccan,209.0
+2112,Austria,20487,Peruvian,9.0
+2113,Belgium,23711,Peruvian,13.0
+2114,Bulgaria,4469,Peruvian,1.0
+2115,Croatia,8375,Peruvian,2.0
+2116,Czech Republic,14844,Peruvian,1.0
+2117,Denmark,9485,Peruvian,7.0
+2118,Finland,7372,Peruvian,1.0
+2119,France,155288,Peruvian,107.0
+2120,Germany,115333,Peruvian,54.0
+2121,Greece,33763,Peruvian,14.0
+2122,Hungary,7431,Peruvian,2.0
+2123,Ireland,11203,Peruvian,2.0
+2124,Italy,224763,Peruvian,156.0
+2125,Poland,24698,Peruvian,7.0
+2126,Portugal,32592,Peruvian,30.0
+2127,Romania,7842,Peruvian,3.0
+2128,Slovakia,4251,Peruvian,2.0
+2129,Spain,157479,Peruvian,513.0
+2130,Sweden,18555,Peruvian,17.0
+2131,The Netherlands,29792,Peruvian,23.0
+2132,United Kingdom,171664,Peruvian,51.0
+2133,Austria,20487,Caribbean,6.0
+2134,Belgium,23711,Caribbean,16.0
+2135,Bulgaria,4469,Caribbean,10.0
+2136,Croatia,8375,Caribbean,1.0
+2137,Czech Republic,14844,Caribbean,11.0
+2138,Denmark,9485,Caribbean,2.0
+2139,France,155288,Caribbean,289.0
+2140,Germany,115333,Caribbean,63.0
+2141,Greece,33763,Caribbean,17.0
+2142,Hungary,7431,Caribbean,7.0
+2143,Ireland,11203,Caribbean,5.0
+2144,Italy,224763,Caribbean,94.0
+2145,Poland,24698,Caribbean,14.0
+2146,Portugal,32592,Caribbean,25.0
+2147,Romania,7842,Caribbean,4.0
+2148,Slovakia,4251,Caribbean,3.0
+2149,Spain,157479,Caribbean,330.0
+2150,Sweden,18555,Caribbean,15.0
+2151,The Netherlands,29792,Caribbean,111.0
+2152,United Kingdom,171664,Caribbean,873.0
+2153,Austria,20487,British,15.0
+2154,Belgium,23711,British,31.0
+2155,Bulgaria,4469,British,46.0
+2156,Croatia,8375,British,4.0
+2157,Czech Republic,14844,British,32.0
+2158,Denmark,9485,British,26.0
+2159,Finland,7372,British,13.0
+2160,France,155288,British,382.0
+2161,Germany,115333,British,78.0
+2162,Greece,33763,British,207.0
+2163,Hungary,7431,British,22.0
+2164,Ireland,11203,British,138.0
+2165,Italy,224763,British,216.0
+2166,Poland,24698,British,40.0
+2167,Portugal,32592,British,127.0
+2168,Romania,7842,British,35.0
+2169,Slovakia,4251,British,12.0
+2170,Spain,157479,British,1818.0
+2171,Sweden,18555,British,89.0
+2172,The Netherlands,29792,British,78.0
+2173,United Kingdom,171664,British,64264.0
+2174,Austria,20487,Cuban,2.0
+2175,Belgium,23711,Cuban,6.0
+2176,Bulgaria,4469,Cuban,6.0
+2177,Czech Republic,14844,Cuban,7.0
+2178,Finland,7372,Cuban,1.0
+2179,France,155288,Cuban,60.0
+2180,Germany,115333,Cuban,29.0
+2181,Greece,33763,Cuban,10.0
+2182,Hungary,7431,Cuban,4.0
+2183,Italy,224763,Cuban,55.0
+2184,Poland,24698,Cuban,10.0
+2185,Portugal,32592,Cuban,11.0
+2186,Romania,7842,Cuban,3.0
+2187,Slovakia,4251,Cuban,3.0
+2188,Spain,157479,Cuban,165.0
+2189,Sweden,18555,Cuban,4.0
+2190,The Netherlands,29792,Cuban,52.0
+2191,United Kingdom,171664,Cuban,58.0
+2192,Austria,20487,Scottish,3.0
+2193,Bulgaria,4469,Scottish,1.0
+2194,Czech Republic,14844,Scottish,1.0
+2195,Denmark,9485,Scottish,1.0
+2196,Finland,7372,Scottish,1.0
+2197,France,155288,Scottish,13.0
+2198,Germany,115333,Scottish,10.0
+2199,Greece,33763,Scottish,2.0
+2200,Hungary,7431,Scottish,3.0
+2201,Ireland,11203,Scottish,2.0
+2202,Italy,224763,Scottish,16.0
+2203,Poland,24698,Scottish,1.0
+2204,Portugal,32592,Scottish,1.0
+2205,Romania,7842,Scottish,1.0
+2206,Slovakia,4251,Scottish,1.0
+2207,Spain,157479,Scottish,45.0
+2208,Sweden,18555,Scottish,3.0
+2209,The Netherlands,29792,Scottish,4.0
+2210,United Kingdom,171664,Scottish,4583.0
+2211,Austria,20487,Brazilian,7.0
+2212,Belgium,23711,Brazilian,30.0
+2213,Bulgaria,4469,Brazilian,5.0
+2214,Croatia,8375,Brazilian,2.0
+2215,Czech Republic,14844,Brazilian,11.0
+2216,Denmark,9485,Brazilian,8.0
+2217,Finland,7372,Brazilian,4.0
+2218,France,155288,Brazilian,165.0
+2219,Germany,115333,Brazilian,73.0
+2220,Greece,33763,Brazilian,9.0
+2221,Hungary,7431,Brazilian,5.0
+2222,Ireland,11203,Brazilian,17.0
+2223,Italy,224763,Brazilian,327.0
+2224,Poland,24698,Brazilian,13.0
+2225,Portugal,32592,Brazilian,792.0
+2226,Romania,7842,Brazilian,13.0
+2227,Slovakia,4251,Brazilian,1.0
+2228,Spain,157479,Brazilian,276.0
+2229,Sweden,18555,Brazilian,8.0
+2230,The Netherlands,29792,Brazilian,35.0
+2231,United Kingdom,171664,Brazilian,239.0
+2232,Austria,20487,Venezuelan,4.0
+2233,Belgium,23711,Venezuelan,3.0
+2234,Bulgaria,4469,Venezuelan,1.0
+2235,Croatia,8375,Venezuelan,1.0
+2236,Czech Republic,14844,Venezuelan,3.0
+2237,Denmark,9485,Venezuelan,3.0
+2238,Finland,7372,Venezuelan,2.0
+2239,France,155288,Venezuelan,11.0
+2240,Germany,115333,Venezuelan,14.0
+2241,Hungary,7431,Venezuelan,1.0
+2242,Ireland,11203,Venezuelan,1.0
+2243,Italy,224763,Venezuelan,47.0
+2244,Poland,24698,Venezuelan,3.0
+2245,Portugal,32592,Venezuelan,63.0
+2246,Spain,157479,Venezuelan,570.0
+2247,Sweden,18555,Venezuelan,2.0
+2248,The Netherlands,29792,Venezuelan,3.0
+2249,United Kingdom,171664,Venezuelan,30.0
+2250,Austria,20487,Assyrian,1.0
+2251,Belgium,23711,Assyrian,2.0
+2252,Czech Republic,14844,Assyrian,1.0
+2253,Denmark,9485,Assyrian,1.0
+2254,France,155288,Assyrian,8.0
+2255,Germany,115333,Assyrian,11.0
+2256,Hungary,7431,Assyrian,1.0
+2257,Ireland,11203,Assyrian,2.0
+2258,Italy,224763,Assyrian,1.0
+2259,Poland,24698,Assyrian,1.0
+2260,Romania,7842,Assyrian,1.0
+2261,Spain,157479,Assyrian,5.0
+2262,Sweden,18555,Assyrian,1.0
+2263,The Netherlands,29792,Assyrian,9.0
+2264,United Kingdom,171664,Assyrian,4.0
+2265,Austria,20487,Burmese,1.0
+2266,Belgium,23711,Burmese,1.0
+2267,Bulgaria,4469,Burmese,1.0
+2268,Czech Republic,14844,Burmese,3.0
+2269,Finland,7372,Burmese,1.0
+2270,France,155288,Burmese,3.0
+2271,Germany,115333,Burmese,2.0
+2272,Ireland,11203,Burmese,1.0
+2273,Italy,224763,Burmese,4.0
+2274,Slovakia,4251,Burmese,1.0
+2275,Spain,157479,Burmese,2.0
+2276,United Kingdom,171664,Burmese,16.0
+2277,Austria,20487,Norwegian,1.0
+2278,Belgium,23711,Norwegian,3.0
+2279,Croatia,8375,Norwegian,1.0
+2280,Czech Republic,14844,Norwegian,1.0
+2281,Denmark,9485,Norwegian,7.0
+2282,Finland,7372,Norwegian,3.0
+2283,France,155288,Norwegian,12.0
+2284,Germany,115333,Norwegian,8.0
+2285,Italy,224763,Norwegian,8.0
+2286,Poland,24698,Norwegian,3.0
+2287,Romania,7842,Norwegian,1.0
+2288,Slovakia,4251,Norwegian,1.0
+2289,Spain,157479,Norwegian,29.0
+2290,Sweden,18555,Norwegian,7.0
+2291,The Netherlands,29792,Norwegian,2.0
+2292,United Kingdom,171664,Norwegian,14.0
+2293,Austria,20487,Sri Lankan,8.0
+2294,Croatia,8375,Sri Lankan,2.0
+2295,Czech Republic,14844,Sri Lankan,3.0
+2296,Denmark,9485,Sri Lankan,2.0
+2297,Finland,7372,Sri Lankan,1.0
+2298,France,155288,Sri Lankan,52.0
+2299,Germany,115333,Sri Lankan,46.0
+2300,Hungary,7431,Sri Lankan,2.0
+2301,Ireland,11203,Sri Lankan,1.0
+2302,Italy,224763,Sri Lankan,25.0
+2303,Poland,24698,Sri Lankan,1.0
+2304,Portugal,32592,Sri Lankan,1.0
+2305,Spain,157479,Sri Lankan,8.0
+2306,Sweden,18555,Sri Lankan,5.0
+2307,The Netherlands,29792,Sri Lankan,5.0
+2308,United Kingdom,171664,Sri Lankan,161.0
+2309,Austria,20487,Welsh,1.0
+2310,Czech Republic,14844,Welsh,1.0
+2311,France,155288,Welsh,6.0
+2312,Germany,115333,Welsh,1.0
+2313,Greece,33763,Welsh,2.0
+2314,Poland,24698,Welsh,3.0
+2315,Spain,157479,Welsh,11.0
+2316,The Netherlands,29792,Welsh,1.0
+2317,United Kingdom,171664,Welsh,1346.0
+2318,Austria,20487,Fruit parlours,3.0
+2319,Croatia,8375,Fruit parlours,2.0
+2320,Czech Republic,14844,Fruit parlours,6.0
+2321,Denmark,9485,Fruit parlours,1.0
+2322,Finland,7372,Fruit parlours,3.0
+2323,France,155288,Fruit parlours,12.0
+2324,Germany,115333,Fruit parlours,13.0
+2325,Greece,33763,Fruit parlours,99.0
+2326,Hungary,7431,Fruit parlours,2.0
+2327,Italy,224763,Fruit parlours,37.0
+2328,Poland,24698,Fruit parlours,1.0
+2329,Portugal,32592,Fruit parlours,2.0
+2330,Romania,7842,Fruit parlours,3.0
+2331,Slovakia,4251,Fruit parlours,3.0
+2332,Spain,157479,Fruit parlours,36.0
+2333,Sweden,18555,Fruit parlours,3.0
+2334,The Netherlands,29792,Fruit parlours,6.0
+2335,United Kingdom,171664,Fruit parlours,8.0
+2336,Austria,20487,Japanese Fusion,10.0
+2337,Belgium,23711,Japanese Fusion,16.0
+2338,Bulgaria,4469,Japanese Fusion,1.0
+2339,Croatia,8375,Japanese Fusion,9.0
+2340,Czech Republic,14844,Japanese Fusion,7.0
+2341,Denmark,9485,Japanese Fusion,22.0
+2342,Finland,7372,Japanese Fusion,4.0
+2343,France,155288,Japanese Fusion,100.0
+2344,Germany,115333,Japanese Fusion,97.0
+2345,Greece,33763,Japanese Fusion,14.0
+2346,Hungary,7431,Japanese Fusion,6.0
+2347,Ireland,11203,Japanese Fusion,5.0
+2348,Italy,224763,Japanese Fusion,304.0
+2349,Poland,24698,Japanese Fusion,39.0
+2350,Portugal,32592,Japanese Fusion,47.0
+2351,Romania,7842,Japanese Fusion,3.0
+2352,Slovakia,4251,Japanese Fusion,4.0
+2353,Spain,157479,Japanese Fusion,214.0
+2354,Sweden,18555,Japanese Fusion,30.0
+2355,The Netherlands,29792,Japanese Fusion,37.0
+2356,United Kingdom,171664,Japanese Fusion,117.0
+2357,Austria,20487,Georgian,2.0
+2358,Belgium,23711,Georgian,3.0
+2359,Bulgaria,4469,Georgian,3.0
+2360,Czech Republic,14844,Georgian,12.0
+2361,Denmark,9485,Georgian,1.0
+2362,Finland,7372,Georgian,7.0
+2363,France,155288,Georgian,17.0
+2364,Germany,115333,Georgian,38.0
+2365,Greece,33763,Georgian,4.0
+2366,Hungary,7431,Georgian,2.0
+2367,Italy,224763,Georgian,8.0
+2368,Poland,24698,Georgian,107.0
+2369,Portugal,32592,Georgian,3.0
+2370,Slovakia,4251,Georgian,1.0
+2371,Spain,157479,Georgian,19.0
+2372,Sweden,18555,Georgian,6.0
+2373,The Netherlands,29792,Georgian,3.0
+2374,United Kingdom,171664,Georgian,18.0
+2375,Austria,20487,Fujian,1.0
+2376,Belgium,23711,Fujian,4.0
+2377,Czech Republic,14844,Fujian,1.0
+2378,France,155288,Fujian,9.0
+2379,Germany,115333,Fujian,3.0
+2380,Greece,33763,Fujian,3.0
+2381,Italy,224763,Fujian,8.0
+2382,Slovakia,4251,Fujian,1.0
+2383,Spain,157479,Fujian,4.0
+2384,The Netherlands,29792,Fujian,2.0
+2385,United Kingdom,171664,Fujian,7.0
+2386,Austria,20487,New Zealand,1.0
+2387,Belgium,23711,New Zealand,1.0
+2388,Czech Republic,14844,New Zealand,2.0
+2389,Denmark,9485,New Zealand,2.0
+2390,France,155288,New Zealand,8.0
+2391,Germany,115333,New Zealand,6.0
+2392,Ireland,11203,New Zealand,2.0
+2393,Italy,224763,New Zealand,2.0
+2394,Poland,24698,New Zealand,3.0
+2395,Spain,157479,New Zealand,3.0
+2396,Sweden,18555,New Zealand,3.0
+2397,The Netherlands,29792,New Zealand,6.0
+2398,United Kingdom,171664,New Zealand,30.0
+2399,Austria,20487,Malaysian,4.0
+2400,Belgium,23711,Malaysian,7.0
+2401,Croatia,8375,Malaysian,2.0
+2402,Czech Republic,14844,Malaysian,2.0
+2403,Denmark,9485,Malaysian,3.0
+2404,Finland,7372,Malaysian,5.0
+2405,France,155288,Malaysian,15.0
+2406,Germany,115333,Malaysian,7.0
+2407,Greece,33763,Malaysian,2.0
+2408,Hungary,7431,Malaysian,1.0
+2409,Ireland,11203,Malaysian,31.0
+2410,Italy,224763,Malaysian,12.0
+2411,Poland,24698,Malaysian,2.0
+2412,Portugal,32592,Malaysian,5.0
+2413,Spain,157479,Malaysian,14.0
+2414,Sweden,18555,Malaysian,8.0
+2415,The Netherlands,29792,Malaysian,14.0
+2416,United Kingdom,171664,Malaysian,320.0
+2417,Austria,20487,Kappo,1.0
+2418,France,155288,Kappo,1.0
+2419,Greece,33763,Kappo,1.0
+2420,Italy,224763,Kappo,1.0
+2421,United Kingdom,171664,Kappo,2.0
+2422,Austria,20487,Shojin,2.0
+2423,Austria,20487,Emilian,3.0
+2424,Belgium,23711,Emilian,1.0
+2425,Denmark,9485,Emilian,1.0
+2426,France,155288,Emilian,2.0
+2427,Germany,115333,Emilian,2.0
+2428,Greece,33763,Emilian,1.0
+2429,Italy,224763,Emilian,2505.0
+2430,Poland,24698,Emilian,1.0
+2431,Portugal,32592,Emilian,1.0
+2432,Romania,7842,Emilian,1.0
+2433,Spain,157479,Emilian,9.0
+2434,The Netherlands,29792,Emilian,1.0
+2435,United Kingdom,171664,Emilian,7.0
+2436,Austria,20487,Ecuadorean,1.0
+2437,Belgium,23711,Ecuadorean,1.0
+2438,France,155288,Ecuadorean,5.0
+2439,Germany,115333,Ecuadorean,2.0
+2440,Ireland,11203,Ecuadorean,1.0
+2441,Italy,224763,Ecuadorean,20.0
+2442,Poland,24698,Ecuadorean,1.0
+2443,Portugal,32592,Ecuadorean,1.0
+2444,Spain,157479,Ecuadorean,70.0
+2445,Sweden,18555,Ecuadorean,1.0
+2446,The Netherlands,29792,Ecuadorean,5.0
+2447,United Kingdom,171664,Ecuadorean,6.0
+2448,Austria,20487,Apulian,2.0
+2449,Belgium,23711,Apulian,6.0
+2450,Denmark,9485,Apulian,1.0
+2451,Finland,7372,Apulian,1.0
+2452,France,155288,Apulian,13.0
+2453,Germany,115333,Apulian,16.0
+2454,Greece,33763,Apulian,1.0
+2455,Hungary,7431,Apulian,1.0
+2456,Ireland,11203,Apulian,1.0
+2457,Italy,224763,Apulian,631.0
+2458,Poland,24698,Apulian,3.0
+2459,Portugal,32592,Apulian,6.0
+2460,Romania,7842,Apulian,1.0
+2461,Spain,157479,Apulian,13.0
+2462,Sweden,18555,Apulian,3.0
+2463,The Netherlands,29792,Apulian,3.0
+2464,United Kingdom,171664,Apulian,12.0
+2465,Austria,20487,Philippine,4.0
+2466,Belgium,23711,Philippine,12.0
+2467,Bulgaria,4469,Philippine,1.0
+2468,Czech Republic,14844,Philippine,2.0
+2469,Denmark,9485,Philippine,5.0
+2470,Finland,7372,Philippine,6.0
+2471,France,155288,Philippine,10.0
+2472,Germany,115333,Philippine,12.0
+2473,Greece,33763,Philippine,2.0
+2474,Ireland,11203,Philippine,1.0
+2475,Italy,224763,Philippine,42.0
+2476,Poland,24698,Philippine,1.0
+2477,Romania,7842,Philippine,2.0
+2478,Spain,157479,Philippine,50.0
+2479,The Netherlands,29792,Philippine,5.0
+2480,United Kingdom,171664,Philippine,57.0
+2481,Austria,20487,Native American,1.0
+2482,Belgium,23711,Native American,4.0
+2483,Bulgaria,4469,Native American,1.0
+2484,Denmark,9485,Native American,2.0
+2485,France,155288,Native American,32.0
+2486,Germany,115333,Native American,17.0
+2487,Greece,33763,Native American,3.0
+2488,Hungary,7431,Native American,2.0
+2489,Italy,224763,Native American,13.0
+2490,Poland,24698,Native American,3.0
+2491,Portugal,32592,Native American,2.0
+2492,Romania,7842,Native American,1.0
+2493,Spain,157479,Native American,15.0
+2494,Sweden,18555,Native American,4.0
+2495,The Netherlands,29792,Native American,1.0
+2496,United Kingdom,171664,Native American,4.0
+2497,Austria,20487,Beijing cuisine,1.0
+2498,Finland,7372,Beijing cuisine,1.0
+2499,France,155288,Beijing cuisine,11.0
+2500,Germany,115333,Beijing cuisine,7.0
+2501,Greece,33763,Beijing cuisine,4.0
+2502,Italy,224763,Beijing cuisine,8.0
+2503,Poland,24698,Beijing cuisine,1.0
+2504,Portugal,32592,Beijing cuisine,2.0
+2505,Spain,157479,Beijing cuisine,13.0
+2506,Sweden,18555,Beijing cuisine,2.0
+2507,The Netherlands,29792,Beijing cuisine,2.0
+2508,United Kingdom,171664,Beijing cuisine,14.0
+2509,Austria,20487,Cambodian,2.0
+2510,Belgium,23711,Cambodian,8.0
+2511,Czech Republic,14844,Cambodian,2.0
+2512,Denmark,9485,Cambodian,2.0
+2513,Finland,7372,Cambodian,2.0
+2514,France,155288,Cambodian,222.0
+2515,Germany,115333,Cambodian,7.0
+2516,Greece,33763,Cambodian,1.0
+2517,Italy,224763,Cambodian,1.0
+2518,Poland,24698,Cambodian,1.0
+2519,Spain,157479,Cambodian,9.0
+2520,Sweden,18555,Cambodian,1.0
+2521,The Netherlands,29792,Cambodian,2.0
+2522,United Kingdom,171664,Cambodian,18.0
+2523,Austria,20487,Ligurian,1.0
+2524,France,155288,Ligurian,8.0
+2525,Germany,115333,Ligurian,2.0
+2526,Italy,224763,Ligurian,2337.0
+2527,Poland,24698,Ligurian,2.0
+2528,Spain,157479,Ligurian,5.0
+2529,United Kingdom,171664,Ligurian,1.0
+2530,Belgium,23711,Canadian,6.0
+2531,Bulgaria,4469,Canadian,1.0
+2532,Croatia,8375,Canadian,1.0
+2533,Czech Republic,14844,Canadian,4.0
+2534,Finland,7372,Canadian,1.0
+2535,France,155288,Canadian,98.0
+2536,Germany,115333,Canadian,38.0
+2537,Greece,33763,Canadian,9.0
+2538,Hungary,7431,Canadian,1.0
+2539,Ireland,11203,Canadian,3.0
+2540,Italy,224763,Canadian,6.0
+2541,Poland,24698,Canadian,4.0
+2542,Portugal,32592,Canadian,4.0
+2543,Romania,7842,Canadian,1.0
+2544,Spain,157479,Canadian,12.0
+2545,Sweden,18555,Canadian,1.0
+2546,The Netherlands,29792,Canadian,9.0
+2547,United Kingdom,171664,Canadian,67.0
+2548,Belgium,23711,Jamaican,5.0
+2549,Bulgaria,4469,Jamaican,1.0
+2550,Czech Republic,14844,Jamaican,1.0
+2551,Denmark,9485,Jamaican,2.0
+2552,France,155288,Jamaican,11.0
+2553,Germany,115333,Jamaican,13.0
+2554,Greece,33763,Jamaican,3.0
+2555,Hungary,7431,Jamaican,1.0
+2556,Ireland,11203,Jamaican,3.0
+2557,Italy,224763,Jamaican,6.0
+2558,Poland,24698,Jamaican,3.0
+2559,Romania,7842,Jamaican,1.0
+2560,Spain,157479,Jamaican,16.0
+2561,Sweden,18555,Jamaican,8.0
+2562,The Netherlands,29792,Jamaican,13.0
+2563,United Kingdom,171664,Jamaican,382.0
+2564,Belgium,23711,Costa Rican,1.0
+2565,Croatia,8375,Costa Rican,2.0
+2566,France,155288,Costa Rican,1.0
+2567,Germany,115333,Costa Rican,4.0
+2568,Greece,33763,Costa Rican,1.0
+2569,Italy,224763,Costa Rican,3.0
+2570,Poland,24698,Costa Rican,1.0
+2571,Portugal,32592,Costa Rican,1.0
+2572,Romania,7842,Costa Rican,2.0
+2573,Slovakia,4251,Costa Rican,1.0
+2574,Spain,157479,Costa Rican,6.0
+2575,The Netherlands,29792,Costa Rican,1.0
+2576,United Kingdom,171664,Costa Rican,1.0
+2577,Belgium,23711,Catalan,7.0
+2578,Czech Republic,14844,Catalan,3.0
+2579,Denmark,9485,Catalan,2.0
+2580,France,155288,Catalan,205.0
+2581,Germany,115333,Catalan,16.0
+2582,Hungary,7431,Catalan,2.0
+2583,Ireland,11203,Catalan,3.0
+2584,Italy,224763,Catalan,38.0
+2585,Poland,24698,Catalan,2.0
+2586,Portugal,32592,Catalan,1.0
+2587,Romania,7842,Catalan,2.0
+2588,Spain,157479,Catalan,2639.0
+2589,Sweden,18555,Catalan,1.0
+2590,The Netherlands,29792,Catalan,12.0
+2591,United Kingdom,171664,Catalan,66.0
+2592,Belgium,23711,Puerto Rican,1.0
+2593,France,155288,Puerto Rican,2.0
+2594,Germany,115333,Puerto Rican,1.0
+2595,Italy,224763,Puerto Rican,2.0
+2596,Poland,24698,Puerto Rican,4.0
+2597,Portugal,32592,Puerto Rican,10.0
+2598,Spain,157479,Puerto Rican,9.0
+2599,The Netherlands,29792,Puerto Rican,1.0
+2600,United Kingdom,171664,Puerto Rican,3.0
+2601,Belgium,23711,Calabrian,1.0
+2602,France,155288,Calabrian,10.0
+2603,Germany,115333,Calabrian,10.0
+2604,Greece,33763,Calabrian,1.0
+2605,Ireland,11203,Calabrian,2.0
+2606,Italy,224763,Calabrian,324.0
+2607,Romania,7842,Calabrian,1.0
+2608,Spain,157479,Calabrian,8.0
+2609,The Netherlands,29792,Calabrian,1.0
+2610,United Kingdom,171664,Calabrian,9.0
+2611,Belgium,23711,Japanese sweets parlour,1.0
+2612,Czech Republic,14844,Japanese sweets parlour,2.0
+2613,Denmark,9485,Japanese sweets parlour,2.0
+2614,Finland,7372,Japanese sweets parlour,1.0
+2615,France,155288,Japanese sweets parlour,20.0
+2616,Germany,115333,Japanese sweets parlour,6.0
+2617,Greece,33763,Japanese sweets parlour,2.0
+2618,Hungary,7431,Japanese sweets parlour,3.0
+2619,Italy,224763,Japanese sweets parlour,24.0
+2620,Poland,24698,Japanese sweets parlour,7.0
+2621,Portugal,32592,Japanese sweets parlour,1.0
+2622,Slovakia,4251,Japanese sweets parlour,1.0
+2623,Spain,157479,Japanese sweets parlour,14.0
+2624,The Netherlands,29792,Japanese sweets parlour,2.0
+2625,United Kingdom,171664,Japanese sweets parlour,10.0
+2626,Belgium,23711,Hokkaido cuisine,1.0
+2627,Denmark,9485,Hokkaido cuisine,1.0
+2628,France,155288,Hokkaido cuisine,3.0
+2629,Germany,115333,Hokkaido cuisine,1.0
+2630,Italy,224763,Hokkaido cuisine,9.0
+2631,Portugal,32592,Hokkaido cuisine,3.0
+2632,Spain,157479,Hokkaido cuisine,4.0
+2633,The Netherlands,29792,Hokkaido cuisine,1.0
+2634,United Kingdom,171664,Hokkaido cuisine,2.0
+2635,Belgium,23711,Singaporean,1.0
+2636,Czech Republic,14844,Singaporean,1.0
+2637,Denmark,9485,Singaporean,1.0
+2638,Finland,7372,Singaporean,1.0
+2639,France,155288,Singaporean,3.0
+2640,Germany,115333,Singaporean,19.0
+2641,Greece,33763,Singaporean,1.0
+2642,Ireland,11203,Singaporean,6.0
+2643,Italy,224763,Singaporean,4.0
+2644,Poland,24698,Singaporean,1.0
+2645,Portugal,32592,Singaporean,2.0
+2646,Romania,7842,Singaporean,3.0
+2647,Spain,157479,Singaporean,16.0
+2648,The Netherlands,29792,Singaporean,3.0
+2649,United Kingdom,171664,Singaporean,58.0
+2650,Belgium,23711,Kyoto cuisine,1.0
+2651,Denmark,9485,Kyoto cuisine,1.0
+2652,France,155288,Kyoto cuisine,5.0
+2653,Germany,115333,Kyoto cuisine,1.0
+2654,Italy,224763,Kyoto cuisine,3.0
+2655,Spain,157479,Kyoto cuisine,5.0
+2656,United Kingdom,171664,Kyoto cuisine,2.0
+2657,Belgium,23711,Xinjiang,1.0
+2658,Croatia,8375,Xinjiang,1.0
+2659,Denmark,9485,Xinjiang,1.0
+2660,Finland,7372,Xinjiang,1.0
+2661,France,155288,Xinjiang,4.0
+2662,Germany,115333,Xinjiang,6.0
+2663,Ireland,11203,Xinjiang,1.0
+2664,Italy,224763,Xinjiang,3.0
+2665,Poland,24698,Xinjiang,7.0
+2666,Spain,157479,Xinjiang,3.0
+2667,Sweden,18555,Xinjiang,1.0
+2668,United Kingdom,171664,Xinjiang,6.0
+2669,Bulgaria,4469,Guatemalan,1.0
+2670,Finland,7372,Guatemalan,1.0
+2671,France,155288,Guatemalan,2.0
+2672,Germany,115333,Guatemalan,3.0
+2673,Greece,33763,Guatemalan,1.0
+2674,Ireland,11203,Guatemalan,4.0
+2675,Italy,224763,Guatemalan,1.0
+2676,Poland,24698,Guatemalan,1.0
+2677,Portugal,32592,Guatemalan,1.0
+2678,Romania,7842,Guatemalan,4.0
+2679,Slovakia,4251,Guatemalan,1.0
+2680,Spain,157479,Guatemalan,8.0
+2681,United Kingdom,171664,Guatemalan,4.0
+2682,Czech Republic,14844,Uzbek,7.0
+2683,Denmark,9485,Uzbek,1.0
+2684,Finland,7372,Uzbek,1.0
+2685,France,155288,Uzbek,4.0
+2686,Germany,115333,Uzbek,7.0
+2687,Italy,224763,Uzbek,3.0
+2688,Poland,24698,Uzbek,6.0
+2689,Portugal,32592,Uzbek,2.0
+2690,Spain,157479,Uzbek,3.0
+2691,United Kingdom,171664,Uzbek,8.0
+2692,Czech Republic,14844,Kaiseki,1.0
+2693,Denmark,9485,Kaiseki,1.0
+2694,Finland,7372,Kaiseki,1.0
+2695,France,155288,Kaiseki,2.0
+2696,Germany,115333,Kaiseki,4.0
+2697,Italy,224763,Kaiseki,5.0
+2698,Portugal,32592,Kaiseki,1.0
+2699,United Kingdom,171664,Kaiseki,2.0
+2700,Czech Republic,14844,Bahamian,2.0
+2701,France,155288,Bahamian,3.0
+2702,Germany,115333,Bahamian,1.0
+2703,Greece,33763,Bahamian,1.0
+2704,Italy,224763,Bahamian,2.0
+2705,Spain,157479,Bahamian,16.0
+2706,The Netherlands,29792,Bahamian,1.0
+2707,United Kingdom,171664,Bahamian,2.0
+2708,Denmark,9485,Kyushu cuisine,1.0
+2709,France,155288,Kyushu cuisine,2.0
+2710,Germany,115333,Kyushu cuisine,2.0
+2711,Italy,224763,Kyushu cuisine,3.0
+2712,Finland,7372,Latvian,2.0
+2713,France,155288,Latvian,1.0
+2714,Germany,115333,Latvian,3.0
+2715,Hungary,7431,Latvian,2.0
+2716,Italy,224763,Latvian,7.0
+2717,Spain,157479,Latvian,3.0
+2718,Sweden,18555,Latvian,1.0
+2719,United Kingdom,171664,Latvian,13.0
+2720,France,155288,Polynesian,31.0
+2721,Germany,115333,Polynesian,3.0
+2722,Greece,33763,Polynesian,6.0
+2723,Italy,224763,Polynesian,2.0
+2724,Poland,24698,Polynesian,6.0
+2725,Portugal,32592,Polynesian,3.0
+2726,Spain,157479,Polynesian,5.0
+2727,Sweden,18555,Polynesian,3.0
+2728,The Netherlands,29792,Polynesian,1.0
+2729,United Kingdom,171664,Polynesian,3.0
+2730,France,155288,Romagna,3.0
+2731,Germany,115333,Romagna,2.0
+2732,Italy,224763,Romagna,212.0
+2733,Poland,24698,Romagna,1.0
+2734,Romania,7842,Romagna,4.0
+2735,Spain,157479,Romagna,3.0
+2736,Sweden,18555,Romagna,1.0
+2737,United Kingdom,171664,Romagna,3.0
+2738,France,155288,Yunnan,5.0
+2739,Germany,115333,Yunnan,3.0
+2740,Greece,33763,Yunnan,6.0
+2741,Italy,224763,Yunnan,4.0
+2742,Poland,24698,Yunnan,1.0
+2743,Spain,157479,Yunnan,7.0
+2744,United Kingdom,171664,Yunnan,8.0
+2745,France,155288,Nigerian,1.0
+2746,Germany,115333,Nigerian,4.0
+2747,Portugal,32592,Nigerian,1.0
+2748,Spain,157479,Nigerian,2.0
+2749,Sweden,18555,Nigerian,1.0
+2750,United Kingdom,171664,Nigerian,19.0
+2751,France,155288,Lombard,1.0
+2752,Germany,115333,Lombard,6.0
+2753,Greece,33763,Lombard,1.0
+2754,Italy,224763,Lombard,2836.0
+2755,Poland,24698,Lombard,2.0
+2756,Spain,157479,Lombard,2.0
