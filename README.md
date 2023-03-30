@@ -20,7 +20,7 @@ Libraries: numpy, pandas, SciPy, scikit-learn, xgboost, matplotlib
 
 - The first ML problem is classification of restaurants. The given problem was solved by using a few classifiers using **scikit-learn**. 
 
-    - Classificaton of Italian restaurants by "Serves Alcohol" feature. The **XGBoost** model has the best accuracy score - 77%.
+    - Classificaton of Italian restaurants by "Serves Alcohol" feature. The **XGBoost** model has the best accuracy score - **77%**.
     - Classificaton of the UK restaurants by "Vegetarian Friendly" feature. The **Random Forest** model has the best accuracy score - **95%**.
     - Classificaton of German restaurants by "price_level" feature. The **Gradient Boosting** model has the best accuracy score - **74%**.
 
