@@ -6,8 +6,8 @@ Libraries: numpy, pandas, SciPy, scikit-learn, xgboost, matplotlib
 
 
 ## Table of contents
-- [Datasets](#datasets)
-- [Machine learning approach](#machine-learning-approach)
+- [Dataset](#dataset)
+- [Machine Learning problems](#machine-learning-problems)
 - [The Dashboard](#the-dashboard)
 
 
