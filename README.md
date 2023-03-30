@@ -2,7 +2,7 @@
 
 The project gives content-based recommendations of European restaurants using Jaccard metric from SciPy. Also aggregates the data for the Tableau Public dashboard.
 
-Libraries: numpy, pandas, SciPy
+Libraries: numpy, pandas, SciPy, scikit-learn, xgboost, matplotlib
 
 
 ## Table of contents
@@ -16,9 +16,17 @@ Libraries: numpy, pandas, SciPy
 - The dataset of TripAdvisor's data is from [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants). 
 
 
-## Machine learning approach
+## Machine Learning problems
 
-- The problem is building a **content-based recommender** by restaurant features. The given problem was solved by using **the SciPy's Jaccord metric** in the [restaurant_recommender.ipynb](https://github.com/am-tropin/restaurant-europe/blob/main/restaurant_recommender.ipynb) notebook.
+- The first ML problem is classification of restaurants. The given problem was solved by using a few classifiers using **scikit-learn**. 
+
+    - Classificaton of Italian restaurants by "Serves Alcohol" feature. The **XGBoost** model has the best accuracy score - 77%.
+    - Classificaton of the UK restaurants by "Vegetarian Friendly" feature. The **Random Forest** model has the best accuracy score - **95%**.
+    - Classificaton of German restaurants by "price_level" feature. The **Gradient Boosting** model has the best accuracy score - **74%**.
+
+The result is in the [restaurant_classification.ipynb](https://github.com/am-tropin/restaurant-europe/blob/main/restaurant_classification.ipynb) notebook.
+
+- The second ML problem is building a **content-based recommender** by restaurant features. The given problem was solved by using **the SciPy's Jaccord metric** in the [restaurant_recommender.ipynb](https://github.com/am-tropin/restaurant-europe/blob/main/restaurant_recommender.ipynb) notebook.
 
 
 ## The Dashboard
