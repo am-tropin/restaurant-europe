@@ -1,6 +1,6 @@
-# Restaurant Europe
+# European restaurants: Classification & Recommender
 
-The project gives content-based recommendations of European restaurants using Jaccard metric from SciPy. Also aggregates the data for the Tableau Public dashboard.
+The project classifies restaurants by various features using XGBoost and scikit-learn models and gives content-based recommendations of European restaurants using Jaccard metric from SciPy. Also aggregates the data for the Tableau Public dashboard.
 
 Libraries: numpy, pandas, SciPy, scikit-learn, xgboost, matplotlib
 
