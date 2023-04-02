@@ -1,1 +1,14 @@
-1. Check the correlation between latitude and open hours (depends on type of restaurants: for example, with the break of without)
+FOR HYPOTHESIS TESTING:
+
+1. To write conclusions
+
+2. To improve the design of the code
+
+3. To add plotly's plots and dash's dashboards
+
+
+FOR SMTH ELSE:
+
+1. To check the correlation between latitude and open hours (depends on type of restaurants: for example, with the break of without)
+
+2. To check correlation between prices and average salary for each country.
