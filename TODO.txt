@@ -12,3 +12,5 @@ FOR SMTH ELSE:
 1. To check the correlation between latitude and open hours (depends on type of restaurants: for example, with the break of without)
 
 2. To check correlation between prices and average salary for each country.
+
+3. To check correlation between prices/ratings AND distance to the center of the city.
