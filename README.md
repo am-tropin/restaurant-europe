@@ -28,6 +28,8 @@ The result is in the [restaurant_classification.ipynb](https://github.com/am-tro
 
 - The second ML problem is building a **content-based recommender** by restaurant features. The given problem was solved by using **the SciPy's Jaccord metric** in the [restaurant_recommender.ipynb](https://github.com/am-tropin/restaurant-europe/blob/main/restaurant_recommender.ipynb) notebook.
 
+- The third problem is **hypothesis testing** about relationship between average rating and some restaurant features (Spanish cuisine, Cheap Food, Vegetarian Friendly) for different countries. The given problem was solved by using **Student's and Welch's t-tests** from **SciPy** in the [restaurant_hypothesis_testing.ipynb](https://github.com/am-tropin/restaurant-europe/blob/main/restaurant_hypothesis_testing.ipynb) notebook.
+
 
 ## The Dashboard
 
